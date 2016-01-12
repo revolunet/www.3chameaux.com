@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "3chameaux.com",
+    "description": "MetalSmith powered"
+  },
+  "plugins": {
+    "metalsmith-in-place": {
+      "engine": "handlebars",
+      "partials": "partials"
+    },
+    "metalsmith-markdown": {},
+    "metalsmith-layouts": {
+      "engine": "handlebars"
+    },
+    "metalsmith-register-helpers": {},
+    "metalsmith-watch": {
+      "paths": {
+        "src/*": true
+      }
+    }
+  }
+}

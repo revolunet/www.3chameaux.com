@@ -46,8 +46,6 @@ posts: {
 }
 ---
 
-<h1>Index FR</h1>
-
 {{> banner banner }}
 
 {{#> features features }}{{/features}}
@@ -57,6 +55,8 @@ blbalbabla
 {{/spotlight}}
 
 {{#> posts posts }}{{/posts}}
+
+{{> contact }}
 
 {{> footer }}
 

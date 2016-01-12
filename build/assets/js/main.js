@@ -343,7 +343,7 @@ var settings = {
 					.panel({
 						delay: 500,
 						hideOnClick: true,
-						hideOnSwipe: true,
+						hideOnSwipe: false,
 						resetScroll: true,
 						resetForms: true,
 						side: 'right'

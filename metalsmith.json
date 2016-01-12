@@ -4,6 +4,13 @@
     "description": "MetalSmith powered"
   },
   "plugins": {
+    "metalsmith-paths": {},
+    "metalsmith-register-helpers": {},
+    "metalsmith-i18n": {
+      "default": "fr",
+      "locales": ["en", "fr"],
+      "directory": "locales"
+    },
     "metalsmith-in-place": {
       "engine": "handlebars",
       "partials": "partials"
@@ -12,7 +19,11 @@
     "metalsmith-layouts": {
       "engine": "handlebars"
     },
-    "metalsmith-register-helpers": {},
+    "metalsmith-serve": {
+      "port": 8081,
+      "verbode": true,
+      "document_root": "./build"
+    },
     "metalsmith-watch": {
       "paths": {
         "src/*": true

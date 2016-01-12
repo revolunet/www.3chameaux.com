@@ -1,13 +1,140 @@
+
+<!DOCTYPE HTML>
 <html>
-<head>
-  <title>My Blog</title>
-</head>
-<body>
-  <h1>My First Post</h1>
-  <time>Mon Aug 20 2012 02:00:00 GMT+0200 (CEST)</time>
-  <p>An interesting post about how it&#39;s going to be different this time around. I&#39;m going write a lot more nowadays and use this blog to improve my writing.</p>
+    <head>
+        <title>My First Post</title>
+        <meta name="description" content="MetalSmith powered" />
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <!--[if lte IE 8]><script src="./assets/js/ie/html5shiv.js"></script><![endif]-->
+        <link rel="stylesheet" href="./assets/css/main.css" />
+        <!--[if lte IE 8]><link rel="stylesheet" href="./assets/css/ie8.css" /><![endif]-->
+        <!--[if lte IE 9]><link rel="stylesheet" href="./assets/css/ie9.css" /><![endif]-->
+        <noscript><link rel="stylesheet" href="./assets/css/noscript.css" /></noscript>
+    </head>
+    <body>
+
+    <header id="header">
+        <h1><a href="index_en.html">Charming Hotel <span>les 3 Chameaux</span></a></h1>
+        <nav id="nav">
+            <ul>
+                <li><a href="index_en.html">Home</a></li>
+                <li><a href="hotel_en.html">Hotel</a></li>
+                <li><a href="region_en.html">Region</a></li>
+                <li><a href="activites_en.html">Activities</a></li>
+                <li><a href="tarifs_en.html">Pricing</a></li>
+                <li><a href="#contact" class="button">Contact</a></li>
+                <li><a href="index_en.html"><a href="tarifs_fr.html">Français</a></a></li>
+            </ul>
+        </nav>
+    </header>
+
+<section id="main" class="wrapper">
+    <div class="inner">
+
+        <header class="major">
+            <h2>My First Post</h2>
+            <p></p>
+        </header>
+
+    <!-- Content -->
+        <div class="content">
+            <a href="#" class="image fit"><img src="" alt="" /></a>
+            <p>An interesting post about how it&#39;s going to be different this time around. I&#39;m going write a lot more nowadays and use this blog to improve my writing.</p>
 <p>&lt;%= <strong>(&#39;hello&#39;) %&gt;
 ${</strong>(&#39;hello&#39;)}</p>
 
-</body>
+        </div>
+    </div>
+</section>
+
+        <a name="contact"/>
+        <section id="contact" class="wrapper split">
+            <div class="inner">
+                <section>
+                    <h2>Send us a message</h2>
+                    <form method="post" action="#">
+                        <div class="row uniform">
+                            <div class="6u 12u$(large) 6u(medium) 12u$(xsmall)">
+                                <label for="name">Name</label>
+                                <input type="text" name="name" id="name" />
+                            </div>
+                            <div class="6u$ 12u$(large) 6u$(medium) 12u$(xsmall)">
+                                <label for="email">Email</label>
+                                <input type="email" name="email" id="email" />
+                            </div>
+                            <div class="12u$">
+                                <label for="message">Message</label>
+                                <textarea name="message" id="message" rows="5"></textarea>
+                            </div>
+                            <div class="12u$">
+                                <ul class="actions">
+                                    <li><input type="submit" value="Send message" class="special" /></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </form>
+                </section>
+                <section>
+                    <h2>OTHER WAYS TO REACH US</h2>
+                    <ul class="bulleted-icons">
+                        <li>
+                            <span class="icon-wrapper"><span class="icon fa-envelope"></span></span>
+                            <h3>Email</h3>
+                            <p><a href="mailto:contact@3chameaux.com">contact@3chameaux.com</a></p>
+                        </li>
+                 <!--        <li>
+                            <span class="icon-wrapper"><span class="icon fa-twitter"></span></span>
+                            <h3>Twitter</h3>
+                            <p><a href="#">twitter.com/untitled-tld</a></p>
+                        </li> -->
+                        <li>
+                            <span class="icon-wrapper"><span class="icon fa-phone"></span></span>
+                            <h3>Phone</h3>
+                            <p>(+212) 528-71-91-87</p>
+                        </li>
+                        <li>
+                            <span class="icon-wrapper"><span class="icon fa-facebook"></span></span>
+                            <h3>Facebook</h3>
+                            <p><a href="http://facebook.com/3chameaux">facebook.com/3chameaux</a></p>
+                        </li>
+                        <li>
+                            <span class="icon-wrapper"><span class="icon fa-home"></span></span>
+                            <h3>Les 3 Chameaux </h3>
+                            <p>Fort de Tidli<br />
+                            Mirleft, Province de Tiznit<br />
+                            Maroc
+                            </p>
+                        </li>
+                     <!--    <li>
+                            <span class="icon-wrapper"><span class="icon fa-linkedin"></span></span>
+                            <h3>LinkedIn</h3>
+                            <p><a href="#">linkedin.com/untitled-tld</a></p>
+                        </li> -->
+                    </ul>
+                </section>
+            </div>
+        </section>
+
+        <footer id="footer">
+            <div class="inner">
+                <p class="copyright">&copy; Charming Hotel <span>les 3 Chameaux</span> Mirleft, Maroc.</p>
+                <ul class="menu">
+                    <li><a href="#">Terms<span> of Use</span></a></li>
+                    <li><a href="#">Privacy<span> Policy</span></a></li>
+                    <li><a href="#">Legal<span> Information</span></a></li>
+                </ul>
+            </div>
+        </footer>
+
+        <!-- Scripts -->
+        <script src="./assets/js/jquery.min.js"></script>
+        <script src="./assets/js/jquery.dropotron.min.js"></script>
+        <script src="./assets/js/jquery.scrollex.min.js"></script>
+        <script src="./assets/js/skel.min.js"></script>
+        <script src="./assets/js/util.js"></script>
+        <!--[if lte IE 8]><script src="./assets/js/ie/respond.min.js"></script><![endif]-->
+        <script src="./assets/js/main.js"></script>
+
+    </body>
 </html>

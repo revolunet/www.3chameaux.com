@@ -1,5 +1,7 @@
 ---
-title: 'Index FR'
+title: Les 3 Chameaux, Hôtel de Charme à Mirleft, Maroc
+description: Bienvenue aux 3 Chameaux, à Mirleft, havre de paix entre Mer et Desert Marocain
+locale: fr
 layout: index.html
 banner: [{
     text: 'title 1',
@@ -56,8 +58,5 @@ blbalbabla
 
 {{#> posts posts }}{{/posts}}
 
-{{> contact }}
-
-{{> footer }}
 
 

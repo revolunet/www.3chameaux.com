@@ -1,11 +1,10 @@
 ---
 layout: index.html
 title: English title
+locale: en
 description: english blabla
 ---
 
-<h1>Index EN</h1>
-
- 
-<%= __('hello') %>
-${__('hello')}
+{{#> spotlight title="Spotlight 1" image="images/pic07.jpg"}}
+blbalbabla
+{{/spotlight}}

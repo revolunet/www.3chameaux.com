@@ -4466,3 +4466,14 @@
 				}
 
 		}
+		.logo {
+			width: 90px;
+		    height: 25px;
+		    background-image: url(/images/logo-nb.png);
+		    background-repeat: no-repeat;
+		    background-position: center center;
+		    display: inline-block;
+		    vertical-align: middle;
+		    margin-right: 5px;
+		    margin-top: -10px;
+		}

@@ -15,7 +15,11 @@
       "engine": "handlebars",
       "partials": "partials"
     },
-    "metalsmith-markdown": {},
+    "metalsmith-markdown": {
+      "breaks": false,
+      "smartLists": false,
+      "gfm": true
+    },
     "metalsmith-sass": {
       "sourceMap": true,
       "outputStyle": "expanded",

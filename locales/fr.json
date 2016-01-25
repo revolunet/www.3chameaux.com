@@ -1,5 +1,5 @@
 {
-	"main-title": "Hotêl de Charme <span>les 3 Chameaux</span>",
+	"main-title": "<span>Hotêl de Charme</span> Les 3 Chameaux",
 	"contact-us": "NOUS CONTACTER",
 	"phone": "Téléphone",
 	"contact-form-title": "Envoyez-nous un message",
@@ -9,5 +9,7 @@
 	"menu-hotel": "L'hôtel",
 	"menu-region": "La région",
 	"menu-activities": "Activités",
-    "menu-pricing": "Tarifs"
+	"menu-pricing": "Tarifs",
+	"btn-more": "Découvrir",
+	"évènements": "évènements"
 }

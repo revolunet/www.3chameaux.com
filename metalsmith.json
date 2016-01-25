@@ -16,6 +16,11 @@
       "partials": "partials"
     },
     "metalsmith-markdown": {},
+    "metalsmith-sass": {
+      "sourceMap": true,
+      "outputStyle": "expanded",
+      "sourceMapContents": true
+    },
     "metalsmith-layouts": {
       "engine": "handlebars"
     },
@@ -25,8 +30,11 @@
       "document_root": "./build"
     },
     "metalsmith-watch": {
+      "livereload": true,
       "paths": {
-        "src/*": true
+        "src/**/*": true,
+        "partials/*": "src/*",
+        "layouts/*": "src/*"
       }
     }
   }

@@ -1,5 +1,5 @@
 {
-	"main-title": "Charming Hotel <span>les 3 Chameaux</span>",
+	"main-title": "<span>Charming Hotel</span> Les 3 Chameaux",
 	"contact-us": "OTHER WAYS TO REACH US",
 	"phone": "Phone",
 	"contact-form-title": "Send us a message",
@@ -9,5 +9,7 @@
 	"menu-hotel": "Hotel",
 	"menu-region": "Region",
 	"menu-activities": "Activities",
-	"menu-pricing": "Pricing"
+	"menu-pricing": "Pricing",
+	"btn-more": "More",
+	"évènements": "évènements"
 }

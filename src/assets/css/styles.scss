@@ -11,3 +11,11 @@
     margin-right: 5px;
     margin-top: -10px;
 }
+
+.noborder {
+    border:none;
+}
+
+.noborder::after {
+    border:none;
+}

@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "NODE_ENV=production metalsmith",
-    "start": "DEBUG=true metalsmith"
+    "start": "DEBUG=true metalsmith",
+    "publish":"surge ./build 3chameaux.surge.sh"
   },
   "keywords": [],
   "author": "Julien Bouquillon <julien@revolunet.com> (http://twitter.com/revolunet)",

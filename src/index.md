@@ -35,23 +35,23 @@ thumbs: {
         title: 'Hébergement',
         image: 'images/thumbs/suite4.jpg',
         text: "Nous mettons à votre disposition 10 suites, 10 chambres tout confort, ainsi qu'une d'une maison indépendante",
-        link: "hotel"
+        link: "hotel#hotel"
     },{
         title: 'Restauration',
         image: 'images/thumbs/homard.jpg',
         text: 'Dégustez une cuisine Marocaine traditionnelle et locale : Salades, briouats, pastillas, tagines variés, poissons grillées ou au sel...',
-        link: "restaurant"
+        link: "hotel#restauration"
     },{
         title: 'Loisirs',
         image: 'images/thumbs/piscine.jpg',
         text: "Bronzez autour de  la piscine, dépensez-vous sur notre court de tennis, ou choisissez parmi les activités proposées aux alentours.",
-        link: 'loisirs'
+        link: 'hotel#loisirs'
     },{
         title: 'La Région',
         image: 'images/thumbs/legzira.jpg',
         text: 'Découvrez le village de Mirleft et sa Région. De nombreuses excursions sont possibles au départ de Mirleft',
         href: 'http://www.free.fr',
-        link: 'region-mirleft'
+        link: 'region'
     },{
         title: 'Évènements',
         image: 'images/thumbs/groupe-berbere.jpg',
@@ -61,7 +61,7 @@ thumbs: {
         title: 'Accès',
         image: 'images/pic02.jpg',
         text: 'nlnamaamana',
-        link: 'region-mirleft'
+        link: 'region'
     }]
 }
 ---

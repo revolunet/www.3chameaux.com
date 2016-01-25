@@ -1,10 +1,9 @@
 ---
 title: Hôtel de Charme Les 3 Chameaux
 subtitle: Hello world
-description: blabal
+description: Hôtel à Mirleft, Maroc, Restauration et loisirs, piscine, tennis, hammam...
 locale: fr
 layout: simple.html
-image: images/pic01.jpg
 
 hotel: {
     bigimage: 'images/page_hotel/fit/hotel_fit_suite_b.jpg',
@@ -60,8 +59,7 @@ loisirs: {
 }
 
 ---
-
-<a name="hebergement"/>
+<a name="hotel" class="anchor-offset"/>
 {{#> section-text title="Hébergement"}}
 Choisissez parmis l'une des **20 suites** et chambres avec vues.
 <br>
@@ -74,7 +72,7 @@ Nous pouvons également privatiser certains suites, chambres communicantes ainsi
 
 <br><br>
 
-<a name="restauration"/>
+<a name="restauration" class="anchor-offset"/>
 {{#> section-text title="Restauration"}}
 Après une bonne journée de sport ou de relaxation au bord la piscine, se sont les plaisirs de la table qui vous attendent;
 <br><br>
@@ -87,7 +85,7 @@ Les 3 Chameaux proposent la **restauration en continu** et peuvent aussi prépar
 
 <br><br>
 
-<a name="loisirs"/>
+<a name="loisirs" class="anchor-offset"/>
 {{#> section-text title="Loisirs"}}
 Aux 3 Chameaux vous avez le choix entre bronzer sur la piscine, vous dépenser sur notre court de tennis, ou partir découvrir les **dizaines de plages semi-desertes** environnantes.
 <br><br>

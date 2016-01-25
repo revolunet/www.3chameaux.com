@@ -6,7 +6,13 @@ module.exports = function(basename, context) {
         console.log('link err no basename', basename, context);
         return '#';
     }
-    var link = basename.replace('_fr', '').replace('_en', '') + '_' + locale + '.html';
+    var parts = basename.split('#');
+    var hash = '';
+    if (parts.length > 1) {
+        basename = parts[0];
+        hash = '#' + parts[1];
+    }
+    var link = basename.replace('_fr', '').replace('_en', '') + '_' + locale + '.html' + hash;
     if (locale === 'fr' && basename === 'index') {
         link = 'index.html';
     }

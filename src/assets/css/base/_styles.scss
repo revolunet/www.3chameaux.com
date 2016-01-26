@@ -21,6 +21,9 @@
     @include breakpoint(medium) {
         display:inline;
     }
+    @include breakpoint(xxsmall) {
+        display:none;
+    }
 }
 
 .noborder {

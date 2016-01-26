@@ -6,12 +6,6 @@ locale: fr
 layout: simple.html
 
 mirleft: {
-    title: 'Mirleft',
-    text: "Choisissez parmis l'une des **20 suites** et chambres avec vues.
-    <br>
-    Vous avez le choix entre des suites aux spacieux salons marocains et aux confortables salles de bain ou bien des chambres doubles tout confort.
-    <br>
-Nous pouvons également privatiser certains suites, chambres communicantes ainsi qu'une maison pour accueillir familles et amis.",
     bigimage: 'images/page_region/fit/region_fit_mirleft_b.jpg',
     images: [{
         src: 'images/page_region/mozaic/image_mozaic_mirleft_b.jpg',
@@ -25,14 +19,7 @@ Nous pouvons également privatiser certains suites, chambres communicantes ainsi
     }]
 }
 
-
 region: {
-    title: 'Région de Mirleft',
-    text: "Choisissez parmis l'une des **20 suites** et chambres avec vues.
-    <br>
-    Vous avez le choix entre des suites aux spacieux salons marocains et aux confortables salles de bain ou bien des chambres doubles tout confort.
-    <br>
-Nous pouvons également privatiser certains suites, chambres communicantes ainsi qu'une maison pour accueillir familles et amis.",
     images: [{
         src: 'images/page_region/mozaic/image_mozaic_mirleft_a.jpg',
         title: 'img 1'
@@ -50,19 +37,19 @@ thumbs: {
     thumbs:[{
         image: 'images/page_region/mozaic/image_mozaic_legzira.jpg',
         title: 'Plage de Legzira',
-        text: ''
+        text: 'Très grande plage à 20km de Mirleft, avec trois magnifiques arches naturelles taillées dans les falaises sous lesquelles il est possible de se promener à marée basse.'
     },{
         image: 'images/page_region/mozaic/image_mozaic_surf.jpg',
         title: 'Surf',
-        text: ''
+        text: 'Plusieurs écoles de Surf sont présentes à Mirleft et permettent de découvrir les très belles plages des alentours et les meilleurs spots de Surf ou Bodyboard.'
     },{
         image: 'images/page_region/mozaic/image_mozaic_treck.jpg',
         title: 'Balades et Treks',
-        text: ''
+        text: "A pied, en vélo, à dos d'âne ou en mobylette, il est possible de découvrir l'arrière-pays à votre rythme et d'aller à la rencontre des habitants."
     },{
         image: 'images/page_region/mozaic/image_mozaic_gazelles_b.jpg',
         title: 'Ranch des deux Gazelles',
-        text: ''
+        text: 'Pour vos balades à cheval, Le ranch des 2 Gazelles vous propose cours, balades et randonnées entre mer, montagne et désert.'
     },{
         image: 'images/page_region/mozaic/image_mozaic_palmeraie.jpg',
         title: 'Palmeraie de Tighmert',
@@ -70,7 +57,7 @@ thumbs: {
     },{
         image: 'images/page_region/mozaic/image_mozaic_parapente.jpg',
         title: 'Parapente',
-        text: ''
+        text: 'Baptèmes et vols libres encadrés par des moniteurs avec une vue au décollage unique face à la mer.'
     },{
         image: 'images/page_region/mozaic/image_mozaic_tiznit.jpg',
         title: 'Tiznit',
@@ -90,19 +77,22 @@ thumbs: {
 ---
 
 <a name="mirleft" class="anchor-offset"/>
-{{> section-text mirleft}}
-Mirleft est un petit village berbère en bord de mer qui se situe à **145km d'Agadir** entre Tiznit et Sidi Ifni. Mirleft est **un havre de paix**, un lieu propice à la détente, au repos et à la réflexion.
+{{#> section-text title="Mirleft"}}
+Mirleft est un petit village berbère en bord de mer qui se situe à **145km d'Agadir** entre Tiznit et Sidi Ifni.
+<br><br>
+Mirleft est **un havre de paix**, un lieu propice à la détente, au repos et à la réflexion.
 <br><br>
 Après une journée de sport ou de farniente, descendez au village profiter de la rue principale bordée d'arcades, prenez le temps de visiter échoppes et souk dans lesquels vous trouverez une grande variété de l'artisanat local et national.
 <br><br>
 Asseyez-vous ensuite à la terrasse d'un café pour déguster un **sfinj** (beignet local) avec son célèbre **thé à la menthe**.
-<br><br>
+{{/ section-text}}
 {{> fit src=mirleft.bigimage}}
 {{> fit-smalls images=mirleft.images}}
 
 
 
 <a name="region" class="anchor-offset"/>
-{{> section-text region}}
+{{#> section-text title="Région de Mirleft"}}
 De nombreuses activités et excursions sont proposées à Mirleft et dans sa région.
+{{/ section-text}}
 {{#> thumbs thumbs }}{{/thumbs}}

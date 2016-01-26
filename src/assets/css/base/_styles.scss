@@ -40,7 +40,7 @@
     display: block;
     border:none;
     transition:none;
-}
+}   
 
 .wrapper.style2 {
     background-color: #FFFBF5;
@@ -67,4 +67,27 @@ section#banner h2 {
     font-size:4.75em;
     font-weight:normal;
     text-transform: none;
+}
+
+// tarifs
+// 
+.tooltip-block {
+    position:relative;
+    cursor:pointer;
+}
+.tooltip-block:hover:after{
+    border: 1px solid #fc0;
+    padding: 3px 6px;
+    background: #fffea1;
+    content: attr(data-title);
+    position: absolute;
+    right: -210px;
+    top: -45px;
+    width: 200px;
+    font-family: Helvetica, Arial;
+    font-size: 12px;
+}
+
+.tarif__title {
+    font-size: 1.6em
 }

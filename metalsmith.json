@@ -39,9 +39,10 @@
     "metalsmith-watch": {
       "livereload": true,
       "paths": {
-        "src/**/*": true,
-        "partials/*": "src/*",
-        "layouts/*": "src/*"
+        "${source}/**/*": true,
+        "${source}/assets/css/**/*.scss": "**/*.scss",
+        "partials/*": "**/*.md",
+        "layouts/*": "**/*.md"
       }
     }
   }

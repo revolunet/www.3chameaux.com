@@ -7,7 +7,8 @@ banner: [{
     text: 'Bienvenue aux 3 Chameaux',
     alt: "Accueil de l'Hôtel",
     src: 'images/home-banner/accueil1.jpg'
-},{
+}]
+ban2: [{
     text: 'Hôtel de Charme à Mirleft',
     alt: 'Tentes berbères',
     src: 'images/home-banner/accueil2.jpg'

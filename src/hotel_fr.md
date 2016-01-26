@@ -89,12 +89,11 @@ Les 3 Chameaux proposent la **restauration en continu** et peuvent aussi prépar
 {{#> section-text title="Loisirs"}}
 Aux 3 Chameaux vous avez le choix entre bronzer sur la piscine, vous dépenser sur notre court de tennis, ou partir découvrir les **dizaines de plages semi-desertes** environnantes.
 <br><br>
-Découvrez la piscine chauffée en tadelakt (16mX5m), son panorama exceptionnel sur les collines environnantes et son orientation plein Est qui vous fera profiter du soleil toute la journée !
+Découvrez la **piscine chauffée** (16mX5m), son panorama exceptionnel sur les collines environnantes et son orientation plein Est qui vous fera profiter du soleil toute la journée !
 <br><br>
 La piscine est composée d'un grand bassin pour les sportifs et d'un petit bassin pour les plus jeunes.
- <br><br>
-Les 3 Chameaux c'est aussi un hammam traditionnel et une salle de massage où vous aurez l'occasion de vous détendre après une journée éreintante à la plage ou à la piscine.
-
+<br><br>
+Les 3 Chameaux c'est aussi un **hammam traditionnel** et une salle de massage où vous aurez l'occasion de vous détendre après une journée éreintante à la plage ou à la piscine.
 <br><br>
 Envie de découvrir **la côte atlantique** en parapente, en cheval, surf ou quad ? Nous selectionnons pour vous de nombreuses activités disponibles à Mirleft et sa région **afin que tous, grands ou petits, puissent profiter** du séjour au rythme qu'il l'entend.
 <br><br>

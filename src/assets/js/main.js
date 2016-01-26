@@ -17,7 +17,7 @@ var settings = {
 			speed: 1500,
 
 		// Transition delay (in ms)
-			delay: 5000,
+			delay: 3000,
 
 		// Parallax intensity (between 0 and 1; higher = more intense, lower = less intense; 0 = off)
 			parallax: 0.25
@@ -203,7 +203,7 @@ var settings = {
 					// Slide.
 						$slide
 							.css('background-image', 'url("' + $img.attr('src') + '")')
-							.css('background-position', ($slide.data('position') ? $slide.data('position') : 'center'));
+							.css('background-position', ($slide.data('position') ? $slide.data('position') : 'center 0px'));
 
 					// Add to slides.
 						slides.push($slide);
@@ -326,7 +326,10 @@ var settings = {
 			}
 
 		// Banner.
-			$banner._slider(settings.banner);
+			setTimeout(function() {
+				$banner._slider(settings.banner);
+			}, 500);
+			
 
 		// Off-Canvas Navigation.
 

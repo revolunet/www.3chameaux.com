@@ -112,3 +112,5 @@ MAIS AUSSI :
 {{/section-text}}
 {{> fit src=loisirs.bigimage}}
 {{> fit-smalls images=loisirs.images}}
+
+<a class="button fit" href="{{link 'region#region'}}" style="cursor: pointer;">▶&nbsp;&nbsp;La région et les activités</a>

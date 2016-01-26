@@ -230,8 +230,11 @@ var settings = {
 				._parallax(options.parallax);
 
 		// Initial slide.
+			$this.addClass('firstrun');
 			slides[pos].addClass('visible').addClass('top');
-
+			setTimeout(function() {
+				$this.removeClass('firstrun');
+			}, options.delay);
 			if (options.indicators)
 				indicators[pos].addClass('visible');
 

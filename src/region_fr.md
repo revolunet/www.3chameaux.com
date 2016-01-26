@@ -89,7 +89,7 @@ thumbs: {
 
 ---
 
-
+<a name="mirleft" class="anchor-offset"/>
 {{> section-text mirleft}}
 Mirleft est un petit village berbère en bord de mer qui se situe à **145km d'Agadir** entre Tiznit et Sidi Ifni. Mirleft est **un havre de paix**, un lieu propice à la détente, au repos et à la réflexion.
 <br><br>
@@ -101,6 +101,7 @@ Asseyez-vous ensuite à la terrasse d'un café pour déguster un **sfinj** (beig
 
 <br><br>
 
+<a name="region" class="anchor-offset"/>
 {{> section-text region}}
 De nombreuses activités et excursions sont proposées à Mirleft et dans sa région.
 {{#> thumbs thumbs }}{{/thumbs}}

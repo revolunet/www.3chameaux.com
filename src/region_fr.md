@@ -78,11 +78,11 @@ thumbs: {
     },{
         image: 'images/page_region/mozaic/image_mozaic_amtoudit_a.jpg',
         title: 'Amtoudi',
-        text: "Authentique petit village berbère troglodyte caché au coeur d'un Oasis. Vous pourrez y découvrir plusieurs Agadirs et un panorama à couper le souffle. Déambuler dans l'oasis sauvage et même vous baigner dans les eaux naturelles des canyons."
+        text: "Authentique petit village berbère caché au coeur d'un Oasis. Vous pourrez y découvrir plusieurs Agadirs et un panorama à couper le souffle. Déambuler dans l'oasis sauvage et même vous baigner dans les eaux naturelles des canyons."
     },{
         image: 'images/page_region/mozaic/image_mozaic_tafraoute.jpg',
         title: 'Tafraoute',
-        text: "Via une magnifique route de montagne, Tafraoute est une petite ville bâti sur des roches rouges et ocres. La route jusqu'à Tafraoute est très belle : certains cols, jusqu'à 1100m d'altitude, vous permetront d'admirer un panorama magnifique sur les montagnes environnantes."
+        text: "Via une magnifique route de montagne, Tafraoute est une petite ville bâtie sur des roches rouges et ocres. La route jusqu'à Tafraoute est très belle : certains cols, jusqu'à 1100m d'altitude, vous permetront d'admirer un panorama magnifique sur les montagnes environnantes."
     }]
 }
 
@@ -96,10 +96,11 @@ Mirleft est un petit village berbère en bord de mer qui se situe à **145km d'A
 Après une journée de sport ou de farniente, descendez au village profiter de la rue principale bordée d'arcades, prenez le temps de visiter échoppes et souk dans lesquels vous trouverez une grande variété de l'artisanat local et national.
 <br><br>
 Asseyez-vous ensuite à la terrasse d'un café pour déguster un **sfinj** (beignet local) avec son célèbre **thé à la menthe**.
+<br><br>
 {{> fit src=mirleft.bigimage}}
 {{> fit-smalls images=mirleft.images}}
 
-<br><br>
+
 
 <a name="region" class="anchor-offset"/>
 {{> section-text region}}

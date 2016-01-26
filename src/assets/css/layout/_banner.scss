@@ -12,7 +12,7 @@
 
 	#banner {
 		@include color-typography(accent1);
-		min-height: 30em;
+		min-height: 35em;
 		height: 60vh;
 		position: relative;
 		background-color: #EFEFEF;
@@ -167,7 +167,7 @@
 
 		@include breakpoint(large) {
 			min-height: 28em;
-			height: 35vh;
+			height: 40vh;
 
 			> article {
 				background-attachment: scroll;
@@ -179,7 +179,7 @@
 		}
 
 		@include breakpoint(medium) {
-			min-height: 30em;
+			min-height: 28em;
 			height: 40vh;
 
 			> article {
@@ -189,7 +189,7 @@
 		}
 
 		@include breakpoint(small) {
-			min-height: 25em;
+			min-height: 35em;
 
 			> article {
 				.inner {

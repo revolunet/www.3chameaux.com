@@ -79,7 +79,7 @@
 
 		> article {
 			@include vendor('transition', 'opacity 1.5s ease, visibility 1.5s');
-			background-attachment: fixed;
+			background-attachment: scroll;
 			//background-position: center;
 			background-repeat: no-repeat;
 			//background-size: cover;

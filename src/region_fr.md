@@ -48,8 +48,8 @@ thumbs: {
         text: "A pied, en vélo, à dos d'âne ou en mobylette, il est possible de découvrir l'arrière-pays à votre rythme et d'aller à la rencontre des habitants."
     },{
         image: 'images/page_region/mozaic/image_mozaic_gazelles_b.jpg',
-        title: 'Ranch des deux Gazelles',
-        text: 'Pour vos balades à cheval, Le ranch des 2 Gazelles vous propose cours, balades et randonnées entre mer, montagne et désert.'
+        title: 'Balades à Cheval',
+        text: 'Les ranchs de la région vous proposent cours, balades et randonnées entre mer, montagne et désert.'
     },{
         image: 'images/page_region/mozaic/image_mozaic_palmeraie.jpg',
         title: 'Palmeraie de Tighmert',

@@ -3,7 +3,6 @@ title: Tarifs
 subtitle: Hello world
 locale: fr
 layout: simple.html
-image: images/pic01.jpg
 
 hauteSaison: "du 11/02 au 15/03, du 07/04 au 07/05, du 01/07 au 31/08, du 27/10 au 08/11 et du 22/12 au 07/01"
 

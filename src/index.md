@@ -16,19 +16,6 @@ banner: [{
     alt: 'title1',
     src: 'images/home-banner/accueil3.jpg'
 }]
-features: [{
-    title: 'Un lieu historique',
-    icon: 'fa-pencil',
-    text: 'ablbalbalal'
-},{
-    title: 'Une région authentique',
-    icon: 'fa-paper-plane',
-    text: 'ablbalbalal'
-},{
-    title: 'Des activités variées',
-    icon: 'fa-cloud',
-    text: 'ablbalbalal'
-}]
 thumbs: {
     title: 'Découvrez les 3 Chameaux',
     thumbs: [{
@@ -58,10 +45,10 @@ thumbs: {
         text: 'Réalisez vos anniversaires, séminaires, mariages ou soirées dans un cadre inoubliable avec des prestations sur mesure.',
         link: 'evenements'
     },{
-        title: 'Accès',
-        image: 'images/pic02.jpg',
-        text: 'nlnamaamana',
-        link: 'region'
+        title: 'Venir aux 3 Chameaux',
+        image: 'images/thumbs/voiture-voyage.jpg',
+        text: 'Notre guide pour rejoindre Mirleft et Les 3 Chameaux depuis Paris, Bordeaux, Marseille, Marrakech, Agadir.',
+        link: 'acces'
     }]
 }
 ---

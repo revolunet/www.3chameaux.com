@@ -8,13 +8,13 @@ module.exports = function (lang, context) {
         if (basename === 'index') {
             link = 'index_en.html';
         }
-        return '<a href="' + link + '">English</a>'
+        return '<a href="' + link + '"><div class="Flag__en"></div> English</a>'
     } else if (context.data.root.locale === 'en') {
         link = basename.replace('_en', '_fr') + '.html';
         if (basename === 'index_en') {
             link = 'index.html';
         }
-        return '<a href="' + link + '">Français</a>'
+        return '<a href="' + link + '"><div class="Flag__fr"></div> Français</a>'
     }
   
 }

@@ -14,10 +14,10 @@ var settings = {
 
 		// Transition speed (in ms)
 		// For timing purposes only. It *must* match the transition speed of "#banner > article".
-			speed: 1500,
+			speed: 2000,
 
 		// Transition delay (in ms)
-			delay: 3000,
+			delay: 4000,
 
 		// Parallax intensity (between 0 and 1; higher = more intense, lower = less intense; 0 = off)
 			parallax: 0.25

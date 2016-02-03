@@ -44,7 +44,7 @@ Prix **par jour** pour **deux personnes**, en **demi-pension** : petit déjeuner
 Haute Saison : {{ hauteSaison }}
 
 
-(1) Tarifs exprimés en Dirhams (Cliquez pour voir le taux de change actuel du dirham)
+(1) Tarifs exprimés en Dirhams - cf <a href="https://www.google.fr/webhp?ie=UTF-8#q=1+EUR+en+MAD" target="_blank">Taux de conversion Euro => Dirhams</a>
 <br>
 (2) Taxe touristique non incluse : 21 Dhs par nuit et par personne
 <br>

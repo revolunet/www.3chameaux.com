@@ -35,7 +35,7 @@ restauration: {
         src: 'images/page_hotel/mozaic/hotel_mozaic_restau_a.jpg',
         title: 'img 1'
     },{
-        src: 'images/page_hotel/mozaic/hotel_mozaic_restau_b.jpg',
+        src: 'images/page_hotel/mozaic/hotel_mozaic_restau_e.jpg',
         title: 'img 2'
     },{
         src: 'images/page_hotel/mozaic/hotel_mozaic_restau_c.jpg',

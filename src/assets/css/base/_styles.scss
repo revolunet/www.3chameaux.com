@@ -2,6 +2,8 @@
 @import '../libs/functions';
 @import '../libs/mixins';
 
+$color-sand: #F7EFE4;
+
 .logo {
     width: 90px;
     height: 25px;
@@ -43,8 +45,44 @@
 }   
 
 .wrapper.style2 {
-    background-color: #FFFBF5;
+    background-color: $color-sand;
     background-size: cover;
+}
+
+
+
+section#contact {
+    background-color: $color-sand;
+    input[type=text],input[type=email], input[type=password], textarea {
+        background-color: white;
+    }
+    .icon-wrapper {
+        background-color:white;
+        box-shadow: 0 -1px 0 0 white, 0 1px 0 0 white;
+        &:before {
+            border-bottom-color: white;
+        }
+        &:after {
+            border-top-color: white;
+        }
+    }
+}
+
+.Page__index section#contact {
+    background-color: white;
+    input[type=text],input[type=email], input[type=password], textarea {
+        background-color: $color-sand;
+    }
+    .icon-wrapper {
+        background-color:$color-sand;
+        box-shadow: 0 -1px 0 0 $color-sand, 0 1px 0 0 $color-sand;
+        &:before {
+            border-bottom-color: $color-sand;
+        }
+        &:after {
+            border-top-color: $color-sand;
+        }
+    }
 }
 
 section#banner {
@@ -70,6 +108,22 @@ section#banner h2 {
     text-transform: none;
 }
 
+.Flag__fr, .Flag__en {
+    display: inline-block;
+    width: 20px;
+    height: 11px;
+    background-size: 100% auto;
+    margin-right: 5px;
+    -webkit-filter: grayscale(100%) brightness(2);
+    filter: grayscale(100%) brightness(2);
+}
+
+.Flag__fr {
+    background-image: url('/images/flag-fr.png');
+}
+.Flag__en {
+    background-image: url('/images/flag-en.png');
+}
 // tarifs
 // 
 .tooltip-block {
@@ -77,9 +131,9 @@ section#banner h2 {
     cursor:pointer;
 }
 .tooltip-block:hover:after{
-    border: 1px solid #fc0;
+    border: 1px solid darken($color-sand, 20%);
     padding: 3px 6px;
-    background: #fffea1;
+    background: $color-sand;
     content: attr(data-title);
     position: absolute;
     right: -210px;

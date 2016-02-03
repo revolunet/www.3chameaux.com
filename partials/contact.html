@@ -3,15 +3,18 @@
     <div class="inner">
         <section>
             <h2>{{__ 'contact-form-title'}}</h2>
-            <form method="post" action="#">
+            <form method="post" action="http://formspree.io/3chameaux@revolunet.com">
+                <input type="hidden" name="_next" value="//3chameaux.com/thanks.html" />
+                <input type="hidden" name="_subject" value="Formulaire du site 3chameaux.com" />
+                <input type="text" name="_gotcha" style="display:none" />
                 <div class="row uniform">
                     <div class="6u 12u$(large) 6u(medium) 12u$(xsmall)">
                         <label for="name">{{__ 'contact-form-name-title'}}</label>
-                        <input type="text" name="name" id="name" />
+                        <input type="text" name="name" id="name" required="true"/>
                     </div>
                     <div class="6u$ 12u$(large) 6u$(medium) 12u$(xsmall)">
                         <label for="email">Email</label>
-                        <input type="email" name="email" id="email" />
+                        <input type="email" name="_replyto" id="email" required="true"/>
                     </div>
                     <div class="12u$">
                         <label for="message">Message</label>

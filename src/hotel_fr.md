@@ -62,11 +62,15 @@ loisirs: {
 
 <a name="hotel" class="anchor-offset"/>
 {{#> section-text title="Hébergement"}}
-Choisissez parmis l'une des **20 suites** et chambres avec vues.
-<br>
-Vous avez le choix entre des suites aux spacieux salons marocains et aux confortables salles de bain ou bien des chambres doubles tout confort.
-<br>
-Nous pouvons également privatiser certains suites, chambres communicantes ainsi qu'une maison pour accueillir familles et amis.
+Nous vous proposons **12 suites**, toutes différentes, lumineuses et spacieuses, avec vue mer ou montagne.
+<br><br>
+La plupart ont une terrasse privée.
+<br><br>
+Tout confort, elles sont équipées de la climatisation, du wifi et disposent d'un sèche-cheveux et coffre-fort.
+<br><br>
+Ainsi que de cheminées qui vous régaleront les soirées d'hiver.
+<br><br>
+Les chambres doubles sont moins spacieuses mais dans un espace fleuri, au calme et tout confort; certaines sont communicantes pour les familles.
 {{/section-text}}
 {{> fit src=hotel.bigimage}}
 {{> fit-smalls images=hotel.images}}
@@ -96,7 +100,7 @@ La piscine est composée d'un grand bassin pour les sportifs et d'un petit bassi
 <br><br>
 Les 3 Chameaux c'est aussi un **hammam traditionnel** et une salle de massage où vous aurez l'occasion de vous détendre après une journée éreintante à la plage ou à la piscine.
 <br><br>
-Envie de découvrir **la côte atlantique** en parapente, en cheval, surf ou quad ? Nous selectionnons pour vous de nombreuses activités disponibles à Mirleft et sa région **afin que tous, grands ou petits, puissent profiter** du séjour au rythme qu'il l'entend.
+Envie de découvrir **la côte atlantique** en parapente, en cheval ou surf ? Nous selectionnons pour vous de nombreuses activités disponibles à Mirleft et sa région **afin que tous, grands ou petits, puissent profiter** du séjour au rythme qu'il l'entend.
 <br><br>
 MAIS AUSSI :
 
@@ -106,7 +110,7 @@ MAIS AUSSI :
     <li>Treks dans la région avec repas chez l'habitant.</li>
     <li>Promenades dans l'arrière pays, à dos d'ânes, en VTT, en quad et excursions en 4x4.</li>
     <li>Balades, stages et randonnées à Cheval.</li>
-    <li>Surf et Body Board, pêche depuis la plage (surf casting), des falaises ou d'un bateau, plongée sportive et parapente.</li>
+    <li>Surf et Body Board, pêche depuis la plage (surf casting), des falaises ou d'un bateau, parapente.</li>
     <li>Et enfin, un point d'accès WiFi à disposition gratuitement.</li>
 </ul>
 {{/section-text}}

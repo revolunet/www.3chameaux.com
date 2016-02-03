@@ -27,7 +27,7 @@ thumbs: {
         link: "hotel#hotel"
     },{
         title: 'Restauration',
-        image: 'images/thumbs/tajines.jpg',
+        image: 'images/thumbs/homards.jpg',
         text: 'Dégustez une cuisine Marocaine traditionnelle et locale : Salades, briouats, pastillas, tagines variés, poissons grillées ou au sel...',
         link: "hotel#restauration"
     },{

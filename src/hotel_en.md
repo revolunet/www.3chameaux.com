@@ -2,7 +2,7 @@
 title: Hôtel de Charme Les 3 Chameaux
 subtitle: Hello world
 description: Hôtel à Mirleft, Maroc, Restauration et loisirs, piscine, tennis, hammam...
-locale: fr
+locale: en
 layout: simple.html
 
 hotel: {

@@ -1,5 +1,14 @@
 {{> page-start}}
 
-		{{{ contents }}}
+        {{> banner banner }}
+
+        {{{ contents }}}
+
+        <section class="wrapper style2">
+            <div class="inner">
+                <h2>{{ thumbs.title }}</h2>
+                {{#> thumbs thumbs }}{{/thumbs}}
+            </div>
+        </section>
 
 {{> page-end}}

@@ -3,6 +3,7 @@ title: Les 3 Chameaux, Hôtel de Charme à Mirleft, Maroc
 description: Bienvenue aux 3 Chameaux, à Mirleft, havre de paix entre Mer et Desert Marocain
 locale: fr
 layout: index.html
+
 banner: [{
     text: 'Bienvenue aux 3 Chameaux',
     alt: "Accueil de l'Hôtel",
@@ -16,6 +17,7 @@ banner: [{
     alt: 'title1',
     src: 'images/home-banner/accueil3.jpg'
 }]
+
 thumbs: {
     title: 'Découvrez les 3 Chameaux',
     thumbs: [{
@@ -51,19 +53,13 @@ thumbs: {
         link: 'acces'
     }]
 }
----
 
-{{> banner banner }}
+
+---
 
 {{#> spotlight title="Un lieu Authentique" image="images/home-spotlight-2.jpg"}}
 A l'emplacement d'un **ancien fort militaire Français** construit en 1935 sur les hauteurs du village de **Mirleft** (à 140 km au Sud d'Agadir et 40km de Tiznit), Les 3 chameaux vous accueillent au Maroc entre mer et desert sur une superficie de plus d'un hectare, dans un lieu à la situation privilégiée et au **panorama exceptionnel**.
 {{/spotlight}}
-
-<section class="wrapper style2">
-    <div class="inner">
-        <h2>{{__ 'index-thumbs-title'}}</h2>
-        {{#> thumbs thumbs }}{{/thumbs}}</div>
-</div>
 
 
 

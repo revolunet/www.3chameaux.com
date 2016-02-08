@@ -48,7 +48,7 @@ Haute Saison : {{ hauteSaison }}
 <br>
 (2) Taxe touristique non incluse : 21 Dhs par nuit et par personne
 <br>
-(3) Tarifs hôtellerie pour particuliers en vigueur au 1er Janvier 2015 
+(3) Tarifs hôtellerie pour particuliers en vigueur au 1er Janvier 2016
 
 <br><br>
 <a class="button big" href="#contact" style="cursor: pointer;">▶&nbsp;&nbsp;contactez-nous</a>

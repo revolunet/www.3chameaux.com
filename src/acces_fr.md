@@ -9,10 +9,9 @@ layout: simple.html
 <h2>Venir aux 3 Chameaux</h2>
 <p>Coordonnées géographiques GPS de MIRLEFT : N 29° 34929 - W 10° 02196</p>
 
-
-
 <h2>AVION</h2>
-<p>Agadir est l'aeroport le plus proche. Vous trouverez des prix compétitifs dans de nombreuses agences sur internet : Transavia, Jet4you, Atlas blue, Royal Air Maroc ou Aigle Azur.</p>
+<p>Agadir est l'aeroport le plus proche. Vous trouverez des prix compétitifs dans de nombreuses agences sur internet : [Transavia](http://transavia.com), [Jet4you](http://jet4you.com), [EasyJet](http://easyjet.com), [Royal Air Maroc](http://royalairmaroc.com), ou [Air France](http://airfrance.com)</p>
+
 <p>A Agadir, nous pouvons vous reserver à l'aéroport une voiture de location au tarif négocié de 260Dhs/jour, ou un grand taxi qui vous ammenera directement aux 3 Chameaux (5 personnes) pour 600Dhs/aller. La voiture est conseillée si vous souhaitez faire des excursions autour de Mirleft ou sur les plages environnantes.</p>
 
 <h2>VOITURE</h2>
@@ -25,9 +24,9 @@ De préférence prendre par le centre de l'Espagne (les voies rapides sont gratu
 <br><br>
 
 <h2>BATEAU</h2>
- Algerisas > Tanger : 3h
+ Algesiras > Tanger : 3h
 <br>
- Algegiras > Ceuta : 35 minutes ( la ville de Ceuta est port franc donc détaxé)
+ Algesiras > Ceuta : 35 minutes ( la ville de Ceuta est port franc donc détaxé)
 <br>
  Vous pouvez aussi passer par Tarifa, charmante petite ville à 15km d'Algeciras, qui a l'avantage d'être beaucoup moins fréquentée et qui propose des bateaux rapides (35min de traversée).
 
@@ -36,8 +35,8 @@ De préférence prendre par le centre de l'Espagne (les voies rapides sont gratu
 Marrakech > Agadir :
 <br>
 Par l'autoroute A7 (3h)
-Par la route cotière via Essaouira (6h) 
-
+<br>
+Par la route cotière via Essaouira (6h)
 <br><br>
 
 <h2>Depuis Agadir</h2>

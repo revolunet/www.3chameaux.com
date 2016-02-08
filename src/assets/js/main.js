@@ -66,16 +66,31 @@ var settings = {
 			var $t = $(this),
 				on, off;
 
+			var offset = 586 - $t.height();
+			//var maxPos = 
+
+			console.log('offset', offset);
+
 			on = function() {
 
-				//$t.css('background-position', 'center 100%, center 100%, center 0px');
+				$t.css('background-position', 'center center');
 
 				$window
 					.on('scroll._parallax', function() {
 
-						var pos = parseInt($window.scrollTop()) - parseInt($t.position().top);
+						var pos = parseInt($window.scrollTop())
+						// - parseInt($t.position().top);
+						//$window.scrollTop() + offset;
+						//parseInt($window.scrollTop()) - parseInt($t.position().top);
+						//pos += $t.height();
+						//console.log('pos', pos);
+						//console.log('top', $t.position().top);
 
-						$t.css('background-position', 'center ' + (pos * (-1 * intensity)) + 'px');
+						var pos2 = (pos * (1 * intensity)) + offset;
+						console.log('pos22', pos2);
+						$t.css('background-position', 'center ' + pos2 + 'px');
+
+						// - (pos * (-1 * intensity))) + 'px');
 
 					});
 
@@ -203,7 +218,7 @@ var settings = {
 					// Slide.
 						$slide
 							.css('background-image', 'url("' + $img.attr('src') + '")')
-							.css('background-position', ($slide.data('position') ? $slide.data('position') : 'center 0px'));
+							.css('background-position', ($slide.data('position') ? $slide.data('position') : 'center center'));
 
 					// Add to slides.
 						slides.push($slide);

@@ -39,7 +39,7 @@ thumbs: {
         title: 'Plage de Legzira',
         text: 'Très grande plage à 20km de Mirleft, avec trois magnifiques arches naturelles taillées dans les falaises sous lesquelles il est possible de se promener à marée basse.'
     },{
-        image: 'images/page_region/mozaic/image_mozaic_surf.jpg',
+        image: 'images/page_region/mozaic/image_mozaic_surf3.jpg',
         title: 'Surf',
         text: 'Plusieurs écoles de Surf sont présentes à Mirleft et permettent de découvrir les très belles plages des alentours et les meilleurs spots de Surf ou Bodyboard.'
     },{
@@ -47,7 +47,7 @@ thumbs: {
         title: 'Balades et Treks',
         text: "A pied, en vélo, à dos d'âne ou en mobylette, il est possible de découvrir l'arrière-pays à votre rythme et d'aller à la rencontre des habitants."
     },{
-        image: 'images/page_region/mozaic/image_mozaic_gazelles_b.jpg',
+        image: 'images/page_region/mozaic/image_mozaic_balade_cheval.jpg',
         title: 'Balades à Cheval',
         text: 'Les ranchs de la région vous proposent cours, balades et randonnées entre mer, montagne et désert.'
     },{

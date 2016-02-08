@@ -84,6 +84,8 @@ Après une bonne journée de sport ou de relaxation au bord la piscine, se sont 
 Vous aurez la possibilité de déguster la cuisine marocaine traditionnelle : Salades marocaines, briouats (feuilletés farcis), pastillas, tagines variés, poissons grillées ou au sel et bien sûr, thé à la menthe et patisseries !
 <br><br>
 Les 3 Chameaux proposent la **restauration en continu** et peuvent aussi préparer vos paniers-repas pour vos excursions.
+<br><br>
+Les petits déjeuners sont servis de 8h à 12h.
 {{/section-text}}
 {{> fit src=restauration.bigimage}}
 {{> fit-smalls images=restauration.images}}

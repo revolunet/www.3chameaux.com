@@ -49,7 +49,8 @@ Haute Saison : {{ hauteSaison }}
 (2) Taxe touristique non incluse : 21 Dhs par nuit et par personne
 <br>
 (3) Tarifs hôtellerie pour particuliers en vigueur au 1er Janvier 2015 
-
+<br>
+(4) Les petits déjeuners sont servis de 8h à 12h.
 <br><br>
 <a class="button big" href="#contact" style="cursor: pointer;">▶&nbsp;&nbsp;contactez-nous</a>
 <br><br>

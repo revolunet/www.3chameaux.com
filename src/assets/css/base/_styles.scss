@@ -92,7 +92,12 @@ section#banner {
     background-attachment: scroll;
     background-color:white !important;
     background-repeat: no-repeat;
+
+    @include breakpoint(medium) {
+        background-size: cover;
+    }
 }
+
 
 // hack to show the first slide b64
 section#banner::after {

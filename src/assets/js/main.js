@@ -67,32 +67,29 @@ var settings = {
 				on, off;
 
 			var offset = 586 - $t.height();
-			//var maxPos = 
-
-			console.log('offset', offset);
 
 			on = function() {
 
-				$t.css('background-position', 'center center');
+				// $t.css('background-position', 'center center');
 
-				$window
-					.on('scroll._parallax', function() {
+				// $window
+				// 	.on('scroll._parallax', function() {
 
-						var pos = parseInt($window.scrollTop())
-						// - parseInt($t.position().top);
-						//$window.scrollTop() + offset;
-						//parseInt($window.scrollTop()) - parseInt($t.position().top);
-						//pos += $t.height();
-						//console.log('pos', pos);
-						//console.log('top', $t.position().top);
+				// 		var pos = parseInt($window.scrollTop())
+				// 		// - parseInt($t.position().top);
+				// 		//$window.scrollTop() + offset;
+				// 		//parseInt($window.scrollTop()) - parseInt($t.position().top);
+				// 		//pos += $t.height();
+				// 		//console.log('pos', pos);
+				// 		//console.log('top', $t.position().top);
 
-						var pos2 = (pos * (1 * intensity)) + offset;
-						console.log('pos22', pos2);
-						$t.css('background-position', 'center ' + pos2 + 'px');
+				// 		var pos2 = (pos * (-1 * intensity));
+				// 		console.log('pos22', pos2);
+				// 		$t.css('background-position', 'center ' + pos2 + 'px');
 
-						// - (pos * (-1 * intensity))) + 'px');
+				// 		// - (pos * (-1 * intensity))) + 'px');
 
-					});
+				// 	});
 
 			};
 

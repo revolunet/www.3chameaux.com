@@ -84,7 +84,7 @@ Mirleft est **un havre de paix**, un lieu propice à la détente, au repos et à
 <br><br>
 Après une journée de sport ou de farniente, descendez au village profiter de la rue principale bordée d'arcades, prenez le temps de visiter échoppes et souk dans lesquels vous trouverez une grande variété de l'artisanat local et national.
 <br><br>
-Asseyez-vous ensuite à la terrasse d'un café pour déguster un **sfinj** (beignet local) avec son célèbre **thé à la menthe**.
+Asséyez-vous ensuite à la terrasse d'un café pour déguster un **sfinj** (beignet local) avec son célèbre **thé à la menthe**.
 {{/ section-text}}
 {{> fit src=mirleft.bigimage}}
 {{> fit-smalls images=mirleft.images}}

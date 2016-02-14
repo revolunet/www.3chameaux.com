@@ -17,6 +17,8 @@ npm i
 
 Run dev server : `npm start`
 
+Build html : `npm run build`
+
 Publish : `npm run publish`
 
 # Modification de contenu

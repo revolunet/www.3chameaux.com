@@ -30,6 +30,20 @@
     },
     "metalsmith-layouts": {
       "engine": "handlebars"
+    },
+    "metalsmith-serve": {
+      "port": 8081,
+      "verbode": true,
+      "document_root": "./build"
+    },
+    "metalsmith-watch": {
+      "livereload": true,
+      "paths": {
+        "${source}/**/*": true,
+        "${source}/assets/css/**/*.scss": "**/*.scss",
+        "partials/*": "**/*.md",
+        "layouts/*": "**/*.md"
+      }
     }
   }
 }

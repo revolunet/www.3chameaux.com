@@ -18,3 +18,12 @@ npm i
 Run dev server : `npm start`
 
 Publish : `npm run publish`
+
+# Modification de contenu
+
+Editer les fichiers `src/*.md` sur github, le site se mettera à jour tout seul.
+
+
+# Internationalisation
+
+ - Editer les fichiers `_en.md` et dans `/locales`.

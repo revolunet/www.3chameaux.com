@@ -1,6 +1,6 @@
 ---
 title: Les 3 Chameaux, Hôtel de Charme à Mirleft, Maroc
-description: Bienvenue aux 3 Chameaux, à Mirleft, havre de paix entre Mer et Desert Marocain
+description: Welcome to Les 3 Chameaux, Mirleft, havre de paix entre Mer et Montagne
 locale: en
 layout: index.html
 
@@ -23,33 +23,32 @@ thumbs: {
     thumbs: [{
         title: 'Accomodations',
         image: 'images/thumbs/suite4.jpg',
-        text: "Nous mettons à votre disposition 12 suites, 10 chambres tout confort, ainsi qu'une d'une maison indépendante",
+        text: "We offer you 12 suites, 10 comfortable rooms, and an independent house for families.",
         link: "hotel#hotel"
     },{
         title: 'Restaurant',
         image: 'images/thumbs/homards.jpg',
-        text: 'Dégustez une cuisine Marocaine traditionnelle et locale : Salades, briouats, pastillas, tagines variés, poissons grillées ou au sel...',
+        text: 'Enjoy traditional and local Moroccan kitchen: Salads, briouats, pastillas, varied tagines, grilled fish, salt-fish...',
         link: "hotel#restauration"
     },{
         title: 'Activites',
         image: 'images/thumbs/piscine.jpg',
-        text: "Bronzez autour de  la piscine, dépensez-vous sur notre court de tennis, ou choisissez parmi les activités proposées aux alentours.",
+        text: "Sunbath around the pool, have some fun on our tennis court, or choose from the activities of the region.",
         link: 'hotel#loisirs'
     },{
         title: 'The Region',
         image: 'images/thumbs/legzira.jpg',
-        text: 'Découvrez le village de Mirleft et sa Région. De nombreuses excursions sont possibles au départ de Mirleft',
-        href: 'http://www.free.fr',
+        text: 'Discover the village of Mirleft and its region. Many excursions are possible from Mirleft.',
         link: 'region'
     },{
         title: 'Special Events',
         image: 'images/thumbs/groupe-berbere.jpg',
-        text: 'Réalisez vos anniversaires, séminaires, mariages ou soirées dans un cadre inoubliable avec des prestations sur mesure.',
+        text: 'Make your birthdays, seminars, weddings and parties in an unforgettable place with customized services.',
         link: 'evenements'
     },{
         title: 'Find your way to 3 Chameaux',
         image: 'images/thumbs/voiture-voyage.jpg',
-        text: 'Notre guide pour rejoindre Mirleft et Les 3 Chameaux depuis Paris, Bordeaux, Marseille, Marrakech, Agadir.',
+        text: 'Our guide to join Mirleft and Les 3 Chameaux from Paris, Bordeaux, Marseille, Marrakech, Agadir...',
         link: 'acces'
     }]
 }

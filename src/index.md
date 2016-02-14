@@ -39,7 +39,6 @@ thumbs: {
         title: 'La Région',
         image: 'images/thumbs/legzira.jpg',
         text: 'Découvrez le village de Mirleft et sa Région. De nombreuses excursions sont possibles au départ de Mirleft',
-        href: 'http://www.free.fr',
         link: 'region'
     },{
         title: 'Évènements',

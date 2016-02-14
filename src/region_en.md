@@ -1,7 +1,6 @@
 ---
 title: Hôtel de Charme Les 3 Chameaux
-subtitle: Hello world
-description: blabal
+description: Hôtel de Charme Les 3 Chameaux à Mirleft
 locale: en
 layout: simple.html
 
@@ -36,63 +35,63 @@ thumbs: {
     title: 'Région',
     thumbs:[{
         image: 'images/page_region/mozaic/image_mozaic_legzira.jpg',
-        title: 'Plage de Legzira',
-        text: 'Très grande plage à 20km de Mirleft, avec trois magnifiques arches naturelles taillées dans les falaises sous lesquelles il est possible de se promener à marée basse.'
+        title: 'Legzira Beach',
+        text: 'Great beach 20 km from Mirleft, with three beautiful natural arches carved into the cliffs under which it is possible to walk at low tide.'
     },{
         image: 'images/page_region/mozaic/image_mozaic_surf3.jpg',
         title: 'Surf',
-        text: 'Plusieurs écoles de Surf sont présentes à Mirleft et permettent de découvrir les très belles plages des alentours et les meilleurs spots de Surf ou Bodyboard.'
+        text: 'Several Surf schools are present in Mirleft and can help you discover the beautiful nearby beaches and the best surf or bodyboard spots.'
     },{
         image: 'images/page_region/mozaic/image_mozaic_treck.jpg',
-        title: 'Balades et Treks',
-        text: "A pied, en vélo, à dos d'âne ou en mobylette, il est possible de découvrir l'arrière-pays à votre rythme et d'aller à la rencontre des habitants."
+        title: 'Walks and Treks',
+        text: "On foot, bicycle, donkey or moped, it is possible to discover the hinterland at your own pace and to meet the locals."
     },{
         image: 'images/page_region/mozaic/image_mozaic_balade_cheval.jpg',
-        title: 'Balades à Cheval',
-        text: 'Les ranchs de la région vous proposent cours, balades et randonnées entre mer, montagne et désert.'
+        title: 'Horseback riding',
+        text: 'Ranches in the area offer courses, walks and hikes between sea, mountains and desert.'
     },{
         image: 'images/page_region/mozaic/image_mozaic_palmeraie.jpg',
         title: 'Palmeraie de Tighmert',
-        text: "La palmeraie de tighmert s'étend sur 8km de long. Dans ce très joli Oasis, Abdou vous accueillera dans son musée de la mémoire Nomade et Berbère et vous fera découvrir les objets de la vie nomade et les merveilles de sa région, authentiques et preservés."
+        text: "The Tighmert palm grove stretches 8 km long. In this beautiful Oasis Abdou will welcome you in its Museum of Nomadic Berber and memory and you will discover objects of nomadic life and the wonders of his region, authentic and preserved."
     },{
         image: 'images/page_region/mozaic/image_mozaic_parapente.jpg',
-        title: 'Parapente',
-        text: 'Baptèmes et vols libres encadrés par des moniteurs avec une vue au décollage unique face à la mer.'
+        title: 'Paragliding',
+        text: 'Baptisms and free flights supervised by instructors with a view to the single take-off facing the sea.'
     },{
         image: 'images/page_region/mozaic/image_mozaic_tiznit.jpg',
         title: 'Tiznit',
-        text: "Ville entourée de remparts et très réputée pour son souk de bijoux dans lequel vous découvrirez l'étendue du savoir faire local pour le travail de l'Argent."
+        text: "Walled town and renowned for its jewelery souk where you will discover the extent of the local know-how for the work of the Silver."
     },{
         image: 'images/page_region/mozaic/image_mozaic_amtoudit_a.jpg',
         title: 'Amtoudi',
-        text: "Authentique petit village berbère caché au coeur d'un Oasis. Vous pourrez y découvrir plusieurs Agadirs et un panorama à couper le souffle. Déambuler dans l'oasis sauvage et même vous baigner dans les eaux naturelles des canyons."
+        text: "Authentic small Berber village hidden in the heart of Oasis. You will discover several Agadirs and a panorama breathtaking. Strolling in the savage oasis and even swim in the waters of the canyons."
     },{
         image: 'images/page_region/mozaic/image_mozaic_tafraoute.jpg',
         title: 'Tafraoute',
-        text: "Via une magnifique route de montagne, Tafraoute est une petite ville bâtie sur des roches rouges et ocres. La route jusqu'à Tafraoute est très belle : certains cols, jusqu'à 1100m d'altitude, vous permetront d'admirer un panorama magnifique sur les montagnes environnantes."
+        text: "Via a beautiful mountain road, Tafraoute is a small town built on red and ocher rocks. The road to Tafraoute is beautiful: some passes, up to 1100m above sea level, permetront you to admire a magnificent view of the surrounding mountains."
     }]
 }
 
 
 ---
 
+
 <a name="mirleft" class="anchor-offset"/>
 {{#> section-text title="Mirleft"}}
-Mirleft est un petit village berbère en bord de mer qui se situe à **145km d'Agadir** entre Tiznit et Sidi Ifni.
+Mirleft is a small Berber village by the sea, that lies **145km from Agadir**, between Tiznit and Sidi Ifni.
 <br><br>
-Mirleft est **un havre de paix**, un lieu propice à la détente, au repos et à la réflexion.
+Mirleft is **a heaven of peace**, a place to relax, rest and reflect.
 <br><br>
-Après une journée de sport ou de farniente, descendez au village profiter de la rue principale bordée d'arcades, prenez le temps de visiter échoppes et souk dans lesquels vous trouverez une grande variété de l'artisanat local et national.
+After a day of sports or relaxation, you can head down to enjoy the town's main street lined with arcades, and take time to visit the souk shops where you will find a wide variety of local and national crafts. 
 <br><br>
-Asseyez-vous ensuite à la terrasse d'un café pour déguster un **sfinj** (beignet local) avec son célèbre **thé à la menthe**.
+Sit next to a cafe to enjoy a **sfinj** (local donut) accompanied by its famous **mint tea**.
 {{/ section-text}}
 {{> fit src=mirleft.bigimage}}
 {{> fit-smalls images=mirleft.images}}
 
 
-
 <a name="region" class="anchor-offset"/>
-{{#> section-text title="Région de Mirleft"}}
-De nombreuses activités et excursions sont proposées à Mirleft et dans sa région.
+{{#> section-text title="Mirleft Area"}}
+There are many activities near Mirleft and in the surrounding Area.
 {{/ section-text}}
 {{#> thumbs thumbs }}{{/thumbs}}

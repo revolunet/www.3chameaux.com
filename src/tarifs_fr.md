@@ -1,6 +1,6 @@
 ---
 title: Tarifs
-subtitle: Hello world
+subtitle: Tarifs Hôtel Les 3 Chameaux
 locale: fr
 layout: simple.html
 

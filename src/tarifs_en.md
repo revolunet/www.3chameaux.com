@@ -1,6 +1,7 @@
 ---
 title: Tarifs
-subtitle: Hello world
+subtitle: Tarifs Hôtel Les 3 Chameaux
+description: Tarifs Hôtel Les 3 Chameaux
 locale: en
 layout: simple.html
 
@@ -9,16 +10,16 @@ hauteSaison: "du 11/02 au 15/03, du 07/04 au 07/05, du 01/07 au 31/08, du 27/10 
 ---
 
 {{#> section-text title="Tarifs"}}
-Pour les groupes et les demandes particulières, [contactez-nous](#contact).
+For groups and special requests, please [contactez-us](#contact).
 <br><br>
-Prix **par jour** pour **deux personnes**, en **demi-pension** : petit déjeuner complet, dîner et hébergement.
+Price **per day** for **two people** in **half-board** : Full breakfast, dinner and accommodation.
 {{/ section-text}}
 
 <table>
     <tr>
         <td>&nbsp;</td>
         <td>
-            <b>Haute Saison</b>
+            <b>High Season</b>
             <div class="fa fa-info-circle tooltip-block" data-title="{{ hauteSaison }}">
             </div>
         </td>
@@ -27,30 +28,29 @@ Prix **par jour** pour **deux personnes**, en **demi-pension** : petit déjeuner
     <tr>
         <td>
             <div class="tarif__title">Suites</div>
-            Chambre(s), salon et salle de bain
+            Room(s), living-room and bathroom
         </td>
         <td>1 790 dhs</td>
         <td>1 590 dhs</td>
     </tr>
     <tr>
         <td>
-            <div class="tarif__title">Chambres doubles</div>
+            <div class="tarif__title">Double rooms</div>
         </td>
         <td>1 490 dhs</td>
         <td>1 390 dhs</td>
     </tr>
 </table>
 
-Haute Saison : {{ hauteSaison }}
+High Season : {{ hauteSaison }}
 
-
-(1) Tarifs exprimés en Dirhams - cf <a href="https://www.google.fr/webhp?ie=UTF-8#q=1+EUR+en+MAD" target="_blank">Taux de conversion Euro => Dirhams</a>
+(1) Tarifs in Dirhams - cf <a href="https://www.google.fr/webhp?ie=UTF-8#q=1+EUR+en+MAD" target="_blank">Euro => Dirhams conversion rate</a>
 <br>
-(2) Taxe touristique non incluse : 21 Dhs par nuit et par personne
+(2) Tourist tax non-included : 21 Dhs per night per person
 <br>
-(3) Tarifs hôtellerie pour particuliers en vigueur au 1er Janvier 2016
+(3) Hôtel rates for individuals on 1 January 2016
 
 <br><br>
-<a class="button big" href="#contact" style="cursor: pointer;">▶&nbsp;&nbsp;contactez-nous</a>
+<a class="button big" href="#contact" style="cursor: pointer;">▶&nbsp;&nbsp;contact us</a>
 <br><br>
-<a class="button small" href="/assets/CGV.pdf" style="cursor: pointer;">▶&nbsp;&nbsp;conditions générales</a>
+<a class="button small" href="/assets/CGV.pdf" style="cursor: pointer;">▶&nbsp;&nbsp;terms and conditions</a>

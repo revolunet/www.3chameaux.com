@@ -1,6 +1,5 @@
 ---
 title: Hôtel de Charme Les 3 Chameaux
-subtitle: Hello world
 description: Hôtel à Mirleft, Maroc, Restauration et loisirs, piscine, tennis, hammam...
 locale: en
 layout: simple.html
@@ -32,13 +31,13 @@ events: {
 
 ---
 <a name="evenements" class="anchor-offset"/>
-{{#> section-text title="Aux 3 Chameaux, tout est possible !"}}
+{{#> section-text title="Les 3 Chameaux, where everything is possible !"}}
 
-Si vous souhaitez réaliser vos **anniversaires, séminaires, mariages** ou soirées, nous les organisons selon le lieu est les prestations souhaitées.
+If you want to make your **birthdays, seminars, weddings...**, we organize by place a custom event to match your expectations.
 <br><br>
-Bivouac, buffet, repas sous khaimat (tente berbère) ou sur l'une des plages environnantes peuvent être organisés sur demande.
+Bivouac, buffet meals, in khaima (Berber tent) or one of the surrounding beaches can be arranged on request.
 <br><br>
-Nous sommes également entourés d'une **riche culture artisanale et d'un folklore authentique** : des danseuses de Guedra à la culture de l'Atlas !
+We are also surrounded by a rich **artisan culture and authentic folklore** like Guedra dancers or one of the many Atlas mountains cultures !
 {{/section-text}}
 {{> fit src=events.bigimage}}
 {{> fit-smalls images=events.images}}

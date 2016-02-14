@@ -1,7 +1,6 @@
 ---
 title: Hôtel de Charme Les 3 Chameaux
-subtitle: Hello world
-description: blabal
+description: Hôtel de Charme Les 3 Chameaux à Mirleft
 locale: fr
 layout: simple.html
 

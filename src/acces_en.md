@@ -1,55 +1,62 @@
 ---
-title: Venir aux 3 Chameaux
-subtitle: Hello world
+title: Come to les 3 Chameaux
 locale: en
 layout: simple.html
 
 ---
 
-<h2>Venir aux 3 Chameaux</h2>
-<p>Coordonnées géographiques GPS de MIRLEFT : N 29° 34929 - W 10° 02196</p>
 
 
+<h2>Coming to Les 3 Chameaux</h2>
+<p>MIRLEFT GPS Coordinates : N 29° 34929 - W 10° 02196</p>
+<br>
 
-<h2>AVION</h2>
-<p>Agadir est l'aeroport le plus proche. Vous trouverez des prix compétitifs dans de nombreuses agences sur internet : Transavia, Jet4you, Atlas blue, Royal Air Maroc ou Aigle Azur.</p>
-<p>A Agadir, nous pouvons vous reserver à l'aéroport une voiture de location au tarif négocié de 260Dhs/jour, ou un grand taxi qui vous ammenera directement aux 3 Chameaux (5 personnes) pour 600Dhs/aller. La voiture est conseillée si vous souhaitez faire des excursions autour de Mirleft ou sur les plages environnantes.</p>
+<h2>By Plane</h2>
+<p>Agadir is the closest airport.
+In Agadir, you can hire a car at the airport which will cost approximately 300Dhs/day, or you can hire a big Moroccan taxi that will drive you directly to Les 3 Chameaux (5 people) for about 600 Dhs.
+<br><br>
+Many companies deserves Agadir : [Transavia](http://transavia.com), [Jet4you](http://jet4you.com), [EasyJet](http://easyjet.com), [Royal Air Maroc](http://royalairmaroc.com), or [Air France](http://airfrance.com)
+</p>
+<br>
 
-<h2>VOITURE</h2>
+<h2>BY CAR</h2>
+<p>
 Paris > Mirleft : 3200 Kms 
 <br>
-Paris > Port d'Algegiras : 2200Kms
+Paris > Algegiras : 2200Kms
 <br>
-De préférence prendre par le centre de l'Espagne (les voies rapides sont gratuites).
-
-<br><br>
-
-<h2>BATEAU</h2>
- Algerisas > Tanger : 3h
+We advise to drive through the center of Spain (Roads are free) 
+</p>
 <br>
- Algegiras > Ceuta : 35 minutes ( la ville de Ceuta est port franc donc détaxé)
+
+<h2>BY BOAT</h2>
+ <p>
+Algesiras > Tanger : 3h
 <br>
- Vous pouvez aussi passer par Tarifa, charmante petite ville à 15km d'Algeciras, qui a l'avantage d'être beaucoup moins fréquentée et qui propose des bateaux rapides (35min de traversée).
-
-<br><br>
-<h2>Depuis Marrakech</h2>
-Marrakech > Agadir :
+ Algesiras > Ceuta : 35 minutes (Tax-free area)
 <br>
-Par l'autoroute A7 (3h)
-Par la route cotière via Essaouira (6h) 
+ You can also choose to take the route through Tarifa, a charming town 15kms from Algesiras which has the advantage of having less traffic and which can provide rapid boat crossing (cross in 35 mins) 
+</p>
+<br>
 
-<br><br>
+<h2>From Marrakech</h2>
+<p>
+via Highway A7 to Agadir (3h)
+<br>
+via Essaouira sideroad (6h)
+</p>
+<br>
 
-<h2>Depuis Agadir</h2>
-
+<h2>From Agadir</h2>
+<p>
 Agadir > Mirleft : 145kms
 <br><br>
-À Agadir prendre direction Tiznit par la voie de contournement de la ville. 
-<br>
-A Tiznit direction Agloo par la route côtière puis direction Sidi Ifni jusqu'au village de Mirleft : vous êtes arrivés aux 3 Chameaux ou la piscine chauffée vous attend !
+In Tiznit, take the road in direction of Agloo the road runs along the picturesque coastline. After Agloo take the road in the direction of Sidi Ifni until you arrive in Mirleft;
 <br><br>
 
- <div class="big">Soyez prudents et bonne route !
+You have arrived at Les 3 Chameaux where the pool is waiting for you !
+
+ <div class="big">Have a safe journey !
 <br><br>
  Jeff.</div>
 

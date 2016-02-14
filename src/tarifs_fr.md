@@ -1,6 +1,7 @@
 ---
 title: Tarifs
 subtitle: Tarifs Hôtel Les 3 Chameaux
+description: Tarifs Hôtel Les 3 Chameaux
 locale: fr
 layout: simple.html
 

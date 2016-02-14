@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "NODE_ENV=production metalsmith",
     "start": "debug=metalsmith:* metalsmith -c ./metalsmith-dev.json",
-    "publish": "surge ./build 3chameaux.surge.sh"
+    "publish": "npm run build && surge ./build 3chameaux.surge.sh"
   },
   "keywords": [],
   "author": "Julien Bouquillon <julien@revolunet.com> (http://twitter.com/revolunet)",

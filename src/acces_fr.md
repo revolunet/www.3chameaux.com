@@ -8,6 +8,8 @@ layout: simple.html
 <h2>Venir aux 3 Chameaux</h2>
 <p>Coordonnées géographiques GPS de MIRLEFT : N 29° 34929 - W 10° 02196</p>
 
+<iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJv7E726rFsw0RadZXN-8H0QM&destination=Les%203%20chameaux%2C%20Mirleft%2C%20Souss-Massa-Dra%C3%A2%2C%20Maroc&key=AIzaSyADgFKYrZRRas1c3LRMT9a9UQ6TvmsXgUg" allowfullscreen></iframe>
+
 <h2>AVION</h2>
 <p>Agadir est l'aeroport le plus proche. Vous trouverez des prix compétitifs dans de nombreuses agences sur internet : [Transavia](http://transavia.com), [Jet4you](http://jet4you.com), [EasyJet](http://easyjet.com), [Royal Air Maroc](http://royalairmaroc.com), ou [Air France](http://airfrance.com)</p>
 

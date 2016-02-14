@@ -26,13 +26,16 @@
     "npm": "3.5.3"
   },
   "devDependencies": {
+    "metalsmith-concat": "3.0.3",
     "metalsmith-debug": "0.0.2",
+    "metalsmith-ignore": "0.1.2",
     "metalsmith-imagemin": "1.1.3",
     "metalsmith-in-place": "1.3.2",
     "metalsmith-register-helpers": "0.1.2",
     "metalsmith-register-partials": "1.0.2",
     "metalsmith-sass": "1.3.0",
     "metalsmith-serve": "0.0.7",
+    "metalsmith-uglify": "1.2.1",
     "metalsmith-watch": "1.0.1"
   }
 }

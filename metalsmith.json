@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "3chameaux.com",
-    "description": "MetalSmith powered"
+    "description": "MetalSmith powered" 
   },
   "plugins": {
     "metalsmith-paths": {},
@@ -25,11 +25,24 @@
     },
     "metalsmith-sass": {
       "sourceMap": true,
-      "outputStyle": "expanded",
+      "outputStyle": "compressed",
       "sourceMapContents": true
     },
     "metalsmith-layouts": {
       "engine": "handlebars"
-    }
+    },
+    "metalsmith-concat": {
+      "files": [
+        "assets/js/jquery.min.js",
+        "assets/js/jquery.dropotron.min.js",
+        "assets/js/jquery.scrollex.min.js",
+        "assets/js/skel.min.js",
+        "assets/js/util.js",
+        "assets/js/ie/respond.min.js",
+        "assets/js/main.js"
+      ],
+      "output": "assets/js/prod.js"
+    },
+    "metalsmith-uglify": {}
   }
 }

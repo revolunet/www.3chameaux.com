@@ -2,7 +2,6 @@
 
 Site "statique" généré par [metalsmith](http://metalsmith.io)
 
- - Hébergé sur surge.sh
  - Formulaire géré par formspree.io
 
 Les sources sont dans `src`.
@@ -19,7 +18,7 @@ Run dev server : `npm start`
 
 Build html : `npm run build`
 
-Publish : `npm run publish`
+~~Publish : `npm run publish`~~
 
 # Modification de contenu
 

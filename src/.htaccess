@@ -1,0 +1,11 @@
+
+# commenter pour l'instant (force la redir vers www)
+RewriteCond %{HTTP_HOST} !^www\.3chameaux\.com [NC]
+RewriteCond %{HTTP_HOST} !^3chams [NC]
+RewriteRule (.*) http://www.3chameaux.com/$1 [QSA,R=301,L]
+
+RewriteRule ^live.mjpg$ http://3chameaux.dyndns.org:82/mjpg/video.mjpg?resolution=240x180 [P]
+RewriteRule ^live2.mjpg$ http://3chameaux.dyndns.org:81/mjpg/video.mjpg?resolution=240x180 [P]
+RewriteRule ^live3.mjpg$ http://3chameaux.dyndns.org:83/mjpg/video.mjpg?resolution=480x360 [P]
+RewriteRule ^live4.mjpg$ http://3chameaux.dyndns.org:84/mjpg/video.mjpg?resolution=480x360 [P]
+

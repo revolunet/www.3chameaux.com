@@ -72,7 +72,7 @@ loisirs: {
 
 <a name="hotel" class="anchor-offset"/>
 {{#> section-text title="Accomodations"}}
-Choose from one of the **20 suites** and rooms with panoramic views of the Atlantic Ocean and the surrounding hills.
+Choose from one of the **12 suites** and **8 twins rooms** with panoramic views of the Atlantic Ocean and the surrounding hills.
 <br><br>
 You will have a choice between either **spacious Moroccan-style suites** with living rooms and comfortable bathrooms, or fully equipped double rooms.
 <br><br>

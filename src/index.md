@@ -23,7 +23,7 @@ thumbs: {
     thumbs: [{
         title: 'Hébergement',
         image: 'images/thumbs/suite4.jpg',
-        text: "Nous mettons à votre disposition 12 suites, 10 chambres tout confort, ainsi qu'une d'une maison indépendante",
+        text: "Nous mettons à votre disposition 12 suites, 8 chambres tout confort, ainsi qu'une d'une maison indépendante",
         link: "hotel#hotel"
     },{
         title: 'Restauration',

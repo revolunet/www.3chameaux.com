@@ -77,7 +77,7 @@ Tout confort, elles sont équipées de la climatisation, du wifi et disposent d'
 <br><br>
 Ainsi que de cheminées qui vous régaleront les soirées d'hiver.
 <br><br>
-Les chambres doubles sont moins spacieuses mais dans un espace fleuri, au calme et tout confort; certaines sont communicantes pour les familles.
+Nous disposons également de **8 chambres doubles**, moins spacieuses mais dans un espace fleuri, au calme et tout confort; certaines sont communicantes pour les familles.
 {{/section-text}}
 {{> fit src=hotel.bigimage}}
 {{> fit-smalls images=hotel.images}}

@@ -23,7 +23,7 @@ thumbs: {
     thumbs: [{
         title: 'Accomodations',
         image: 'images/thumbs/suite4.jpg',
-        text: "We offer you 12 suites, 10 comfortable rooms, and an independent house for families.",
+        text: "We offer you 12 suites, 8 comfortable rooms, and an independent house for families.",
         link: "hotel#hotel"
     },{
         title: 'Restaurant',

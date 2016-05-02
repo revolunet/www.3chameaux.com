@@ -69,6 +69,18 @@ thumbs: {
         image: 'images/page_region/mozaic/image_mozaic_tafraoute.jpg',
         title: 'Tafraoute',
         text: "Via une magnifique route de montagne, Tafraoute est une petite ville bâtie sur des roches rouges et ocres. La route jusqu'à Tafraoute est très belle : certains cols, jusqu'à 1100m d'altitude, vous permetront d'admirer un panorama magnifique sur les montagnes environnantes."
+    },{
+        image: 'images/page_region/mozaic/khenfouf.jpg',
+        title: 'Khenfouf',
+        text: "Visitez le domaine de Khenfouf où vous pourrez rencontrer Patricia qui cultive de délicieux fruits et légumes en agriculture biologiques."
+    },{
+        image: 'images/page_region/mozaic/mesti.jpg',
+        title: 'Mesti',
+        text: "Rencontrez les femmes de la coopérative de Mesti, qui, chaque jour, inlassablement, tapent avec des pierres sur les fruits de l'argane, afin d'en extraire sa précieuse huile d'Argan aux bienfaits multiples."
+    },{
+        image: 'images/page_region/mozaic/sidiifni.jpg',
+        title: 'Sidi Ifni',
+        text: "Concédée à l’Espagne par un traité hispano-marocain en 1767 pour y créer des pêcheries de sardines, puis indépendante en 1969, la ville de Sidi Ifni porte encore les traces de son passé Espagnol."
     }]
 }
 

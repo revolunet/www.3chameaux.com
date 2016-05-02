@@ -69,6 +69,18 @@ thumbs: {
         image: 'images/page_region/mozaic/image_mozaic_tafraoute.jpg',
         title: 'Tafraoute',
         text: "Via a beautiful mountain road, Tafraoute is a small town built on red and ocher rocks. The road to Tafraoute is beautiful: some passes, up to 1100m above sea level, permetront you to admire a magnificent view of the surrounding mountains."
+    }{
+        image: 'images/page_region/mozaic/khenfouf.jpg',
+        title: 'Khenfouf',
+        text: "Visit the domaine de Khenfouf where you will meet Patricia cultivating delicious fruits and vegetables with biological farming."
+    },{
+        image: 'images/page_region/mozaic/mesti.jpg',
+        title: 'Mesti',
+        text: "Meet the women of the cooperative Mesti, who every day, tirelessly, clap with stones on the fruit of the argan, to extract its precious Argan oil with multiple known benefits."
+    },{
+        image: 'images/page_region/mozaic/sidiifni.jpg',
+        title: 'Sidi Ifni',
+        text: "Granted to Spain by a Spanish-Moroccan treaty in 1767 in order to create sardine fisheries and independent in 1969, the city of Sidi Ifni still bears traces of its past Spanish."
     }]
 }
 

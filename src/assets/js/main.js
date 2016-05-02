@@ -20,7 +20,7 @@ var settings = {
 			delay: 4000,
 
 		// Parallax intensity (between 0 and 1; higher = more intense, lower = less intense; 0 = off)
-			parallax: 0.25
+			parallax: 0
 
 	}
 

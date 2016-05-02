@@ -9,9 +9,10 @@ layout: simple.html
 <h1>Credits</h1>
 
  - Photos
+    - [Philippe Barbosa](http://philippebarbosa.com)
     - Camille Papillier
-    - Élodie Dages
+    - [Élodie Dages](elodiedages.com)
  - Site web
     - Template by [pixelarity.com](http://pixelarity.com)
-    - Made with ❤ with [metalsmith](http://metalsmith.io) and [surge.sh](surge.sh)
+    - Made with ❤ with [metalsmith](http://metalsmith.io)
 

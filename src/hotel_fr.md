@@ -39,14 +39,23 @@ restauration: {
     },{
         src: 'images/page_hotel/mozaic/hotel_mozaic_restau_c.jpg',
         title: 'img 3'
+    },{
+        src: 'images/page_hotel/mozaic/salon.jpg',
+        title: 'img 1'
+    },{
+        src: 'images/page_hotel/mozaic/table1.jpg',
+        title: 'img 2'
+    },{
+        src: 'images/page_hotel/mozaic/restaurant.jpg',
+        title: 'img 3'
     }]
 }
 
 
 loisirs: {
-    bigimage: 'images/page_hotel/fit/hotel_fit_piscine_a.jpg',
+    bigimage: 'images/page_hotel/fit/piscine2.jpg',
     images: [{
-        src: 'images/page_hotel/mozaic/hotel_mozaic_loisirs_b.jpg',
+        src: 'images/page_hotel/mozaic/green.jpg',
         title: 'img 1'
     },{
         src: 'images/page_hotel/mozaic/hotel_mozaic_loisirs_c.jpg',

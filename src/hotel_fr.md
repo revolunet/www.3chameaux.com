@@ -92,7 +92,7 @@ Vous aurez la possibilité de déguster la cuisine marocaine traditionnelle : Sa
 <br><br>
 Les 3 Chameaux proposent la **restauration en continu** et peuvent aussi préparer vos paniers-repas pour vos excursions.
 <br><br>
-Les petits déjeuners sont servis de 8h à 12h.
+Les petits déjeuners sont servis de 8h à 11h.
 {{/section-text}}
 {{> fit src=restauration.bigimage}}
 {{> fit-smalls images=restauration.images}}

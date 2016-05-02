@@ -21,7 +21,6 @@ hotel: {
     },{
         src: 'images/page_hotel/mozaic/hotel_mozaic_suite_g.jpg',
         title: 'img 3'
-        
     },{
         src: 'images/page_hotel/mozaic/hotel_mozaic_suite_c.jpg',
         title: 'img 3'

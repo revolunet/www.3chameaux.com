@@ -32,7 +32,7 @@ thumbs: {
         link: "hotel#restauration"
     },{
         title: 'Activites',
-        image: 'images/thumbs/piscine.jpg',
+        image: 'images/thumbs/piscine2.jpg',
         text: "Sunbath around the pool, have some fun on our tennis court, or choose from the activities of the region.",
         link: 'hotel#loisirs'
     },{

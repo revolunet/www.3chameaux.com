@@ -32,7 +32,7 @@ thumbs: {
         link: "hotel#restauration"
     },{
         title: 'Loisirs',
-        image: 'images/thumbs/piscine.jpg',
+        image: 'images/thumbs/piscine2.jpg',
         text: "Bronzez autour de  la piscine, dépensez-vous sur notre court de tennis, ou choisissez parmi les activités proposées aux alentours.",
         link: 'hotel#loisirs'
     },{

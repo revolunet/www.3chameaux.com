@@ -1,8 +1,8 @@
 ---
 title: Hôtel de Charme Les 3 Chameaux
 description: Hôtel de Charme Les 3 Chameaux à Mirleft
-locale: en
 layout: simple.html
+locale: en
 
 mirleft: {
     bigimage: 'images/page_region/fit/region_fit_mirleft_b.jpg',
@@ -69,7 +69,7 @@ thumbs: {
         image: 'images/page_region/mozaic/image_mozaic_tafraoute.jpg',
         title: 'Tafraoute',
         text: "Via a beautiful mountain road, Tafraoute is a small town built on red and ocher rocks. The road to Tafraoute is beautiful: some passes, up to 1100m above sea level, permetront you to admire a magnificent view of the surrounding mountains."
-    }{
+    },{
         image: 'images/page_region/mozaic/khenfouf.jpg',
         title: 'Khenfouf',
         text: "Visit the domaine de Khenfouf where you will meet Patricia cultivating delicious fruits and vegetables with biological farming."

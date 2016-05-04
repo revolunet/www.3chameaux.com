@@ -55,6 +55,15 @@ restauration: {
 loisirs: {
     bigimage: 'images/page_hotel/fit/hotel_fit_piscine_a.jpg',
     images: [{
+        src: 'images/page_hotel/mozaic/piscine2.jpg',
+        title: 'img 2'
+    },{
+        src: 'images/page_hotel/mozaic/piscine1.jpg',
+        title: 'img 2'
+    },{
+        src: 'images/page_hotel/mozaic/piscine4.jpg',
+        title: 'img 3'
+    },{
         src: 'images/page_hotel/mozaic/green.jpg',
         title: 'img 1'
     },{

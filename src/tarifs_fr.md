@@ -5,7 +5,7 @@ description: Tarifs Hôtel Les 3 Chameaux
 locale: fr
 layout: simple.html
 
-hauteSaison: "du 11/02 au 15/03, du 07/04 au 07/05, du 01/07 au 31/08, du 27/10 au 08/11 et du 22/12 au 07/01"
+hauteSaison: "du 11/02 au 15/03, du 07/04 au 07/05, du 01/07 au 31/08, du 27/10 au 08/11 et du 17/12 au 07/01"
 
 ---
 

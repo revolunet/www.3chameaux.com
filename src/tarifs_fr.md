@@ -1,11 +1,11 @@
 ---
-title: Tarifs
+title: Tarifs Hôtel de Charme Les 3 Chameaux à Mirleft, Maroc
 subtitle: Tarifs Hôtel Les 3 Chameaux
 description: Tarifs Hôtel Les 3 Chameaux
 locale: fr
 layout: simple.html
 
-hauteSaison: "du 11/02 au 15/03, du 07/04 au 07/05, du 01/07 au 31/08, du 27/10 au 08/11 et du 17/12 au 07/01"
+hauteSaison: "du 15/07/2017 au 31/08/2017 et du 20/12/2017 au 07/01/2018"
 
 ---
 
@@ -20,8 +20,7 @@ Prix **par jour** pour **deux personnes**, en **demi-pension** : petit déjeuner
         <td>&nbsp;</td>
         <td>
             <b>Haute Saison</b>
-            <div class="fa fa-info-circle tooltip-block" data-title="{{ hauteSaison }}">
-            </div>
+            <div class="fa fa-info-circle tooltip-block" data-title="{{ hauteSaison }}"></div>
         </td>
         <td><b>Basse Saison</b></td>
     </tr>
@@ -30,15 +29,15 @@ Prix **par jour** pour **deux personnes**, en **demi-pension** : petit déjeuner
             <div class="tarif__title">Suites</div>
             Chambre(s), salon et salle de bain
         </td>
-        <td>1 790 dhs</td>
-        <td>1 590 dhs</td>
+        <td>1 920 dhs</td>
+        <td>1 720 dhs</td>
     </tr>
     <tr>
         <td>
             <div class="tarif__title">Chambres doubles</div>
         </td>
-        <td>1 490 dhs</td>
-        <td>1 390 dhs</td>
+        <td>1 620 dhs</td>
+        <td>1 520 dhs</td>
     </tr>
 </table>
 
@@ -49,7 +48,7 @@ Haute Saison : {{ hauteSaison }}
 <br>
 (2) Taxe touristique non incluse : 21 Dhs par nuit et par personne
 <br>
-(3) Tarifs hôtellerie pour particuliers en vigueur au 1er Janvier 2016
+(3) Tarifs hôtellerie pour particuliers en vigueur au 1er Janvier 2017
 <br>
 (4) Les petits déjeuners sont servis de 8h à 12h.
 <br><br>

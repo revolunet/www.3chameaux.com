@@ -56,6 +56,10 @@ thumbs: {
 
 ---
 
+
+<div align="center" style="text-align:center;font-size:22px"><br/><br>☀️️ Annual leaves from 6 to 26 March 2017 included ☀️️</div>
+
+
 {{#> spotlight title="an Authentic place" image="images/home-spotlight-2.jpg"}}
 At the site of a **former military french fort** built in 1935 on the heights of the village of Mirleft, **Les 3 Chameaux**, set in an exclusive area on more than one hectare, welcomes you to Morocco.
 <br><br>

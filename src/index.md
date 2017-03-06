@@ -56,6 +56,8 @@ thumbs: {
 
 ---
 
+<div align="center" style="text-align:center;font-size:22px"><br/><br>☀️️ Fermeture annuelle du 6 au 26 mars 2017 inclus ☀️️</div>
+
 {{#> spotlight title="Un lieu Authentique" image="images/home-spotlight-2.jpg"}}
 A l'emplacement d'un **ancien fort militaire Français** construit en 1935 sur les hauteurs du village de **Mirleft** (à 140 km au Sud d'Agadir et 40km de Tiznit), Les 3 chameaux vous accueillent au Maroc entre mer et desert sur une superficie de plus d'un hectare, dans un lieu à la situation privilégiée et au **panorama exceptionnel**.
 {{/spotlight}}

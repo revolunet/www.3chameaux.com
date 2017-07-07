@@ -4,8 +4,7 @@ subtitle: Tarifs Hôtel Les 3 Chameaux
 description: Tarifs Hôtel Les 3 Chameaux
 locale: fr
 layout: simple.html
-
-hauteSaison: "du 15/07/2017 au 31/08/2017 et du 20/12/2017 au 07/01/2018"
+hauteSaison: "Juillet, Aout, du 21 octobre au 02 novembre et du 23 decembre au 07 janvier 2018"
 
 ---
 
@@ -18,26 +17,49 @@ Prix **par jour** pour **deux personnes**, en **demi-pension** : petit déjeuner
 <table>
     <tr>
         <td>&nbsp;</td>
-        <td>
+        <td align="center">
             <b>Haute Saison</b>
             <div class="fa fa-info-circle tooltip-block" data-title="{{ hauteSaison }}"></div>
         </td>
-        <td><b>Basse Saison</b></td>
+        <td align="center"><b>Basse Saison</b></td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td class="tarif__category" colspan="2">Tarifs en demi-pension</td>
     </tr>
     <tr>
         <td>
-            <div class="tarif__title">Suites</div>
+            <div class="tarif__title">Suite</div>
             Chambre(s), salon et salle de bain
         </td>
-        <td>1 920 dhs</td>
-        <td>1 720 dhs</td>
+        <td align="center">1 920 dhs</td>
+        <td align="center">1 720 dhs</td>
     </tr>
     <tr>
         <td>
-            <div class="tarif__title">Chambres doubles</div>
+            <div class="tarif__title">Chambre double</div>
         </td>
-        <td>1 620 dhs</td>
-        <td>1 520 dhs</td>
+        <td align="center">1 620 dhs</td>
+        <td align="center">1 520 dhs</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td class="tarif__category" colspan="2">Tarifs chambre uniquement</td>
+    </tr>
+    <tr>
+        <td>
+            <div class="tarif__title">Suite</div>
+            Chambre(s), salon et salle de bain
+        </td>
+        <td align="center">1 300 dhs</td>
+        <td align="center">1 100 dhs</td>
+    </tr>
+    <tr>
+        <td>
+            <div class="tarif__title">Chambre double</div>
+        </td>
+        <td align="center">1 000 dhs</td>
+        <td align="center">  900 dhs</td>
     </tr>
 </table>
 

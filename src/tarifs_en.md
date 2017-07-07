@@ -4,41 +4,63 @@ subtitle: Tarifs Hôtel Les 3 Chameaux
 description: Tarifs Hôtel Les 3 Chameaux
 locale: en
 layout: simple.html
-
-hauteSaison: "du 15/07/2017 au 31/08/2017 et du 20/12/2017 au 07/01/2018"
+hauteSaison: "July, August, 21 Oct to 2 Nov and 23 December to 07 January 2018"
 
 ---
 
 {{#> section-text title="Tarifs"}}
 For groups and special requests, please [contactez-us](#contact).
 <br><br>
-Price **per day** for **two people** in **half-board** : Full breakfast, dinner and accommodation.
+Price **per day** for **two people**
 {{/ section-text}}
 
 <table>
     <tr>
         <td>&nbsp;</td>
-        <td>
+        <td align="center">
             <b>High Season</b>
             <div class="fa fa-info-circle tooltip-block" data-title="{{ hauteSaison }}">
             </div>
         </td>
-        <td><b>Low Saison</b></td>
+        <td align="center"><b>Low Saison</b></td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td class="tarif__category" colspan="2">Half-board<br/>Full breakfast, dinner and accommodation</td>
     </tr>
     <tr>
         <td>
-            <div class="tarif__title">Suites</div>
+            <div class="tarif__title">Suite</div>
             Room(s), living-room and bathroom
         </td>
-        <td>1 920 dhs</td>
-        <td>1 720 dhs</td>
+        <td align="center">1 920 dhs</td>
+        <td align="center">1 720 dhs</td>
     </tr>
     <tr>
         <td>
-            <div class="tarif__title">Double rooms</div>
+            <div class="tarif__title">Double room</div>
         </td>
-        <td>1 620 dhs</td>
-        <td>1 520 dhs</td>
+        <td align="center">1 620 dhs</td>
+        <td align="center">1 520 dhs</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td class="tarif__category" colspan="2">Room only</td>
+    </tr>
+    <tr>
+        <td>
+            <div class="tarif__title">Suite</div>
+            Room(s), living-room and bathroom
+        </td>
+        <td align="center">1 300 dhs</td>
+        <td align="center">1 100 dhs</td>
+    </tr>
+    <tr>
+        <td>
+            <div class="tarif__title">Double room</div>
+        </td>
+        <td align="center">1 000 dhs</td>
+        <td align="center">  900 dhs</td>
     </tr>
 </table>
 

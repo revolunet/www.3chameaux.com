@@ -42,7 +42,7 @@ $color-sand: #F7EFE4;
     display: block;
     border:none;
     transition:none;
-}   
+}
 
 .wrapper.style2 {
     background-color: $color-sand;
@@ -130,7 +130,7 @@ section#banner h2 {
     background-image: url('/images/flag-en.png');
 }
 // tarifs
-// 
+//
 .tooltip-block {
     position:relative;
     cursor:pointer;
@@ -150,6 +150,12 @@ section#banner h2 {
 
 .tarif__title {
     font-size: 1.6em
+}
+
+
+.tarif__category {
+    font-size: 1em;
+    text-align:center;
 }
 
 

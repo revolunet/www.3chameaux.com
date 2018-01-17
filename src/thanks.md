@@ -1,6 +1,6 @@
 ---
 title: Venir aux 3 Chameaux
-subtitle: Hello world
+subtitle: Merci
 locale: fr
 layout: simple.html
 

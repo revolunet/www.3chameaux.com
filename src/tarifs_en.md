@@ -4,7 +4,7 @@ subtitle: Tarifs Hôtel Les 3 Chameaux
 description: Tarifs Hôtel Les 3 Chameaux
 locale: en
 layout: simple.html
-hauteSaison: "July, August, 21 Oct to 2 Nov and 23 December to 07 January 2018"
+hauteSaison: "February 10 to March 12, April 7 to May 7, July, August, October 20 to November 4th, December 22th to January 6th"
 
 ---
 

@@ -56,12 +56,6 @@ thumbs: {
 
 ---
 
-<div style="margin-top:20px;font-size:1.2em;text-align:center">Nouveau : découvrez nos <a href="/stage-pilates.html">stages Pilates</a></div>
-
 {{#> spotlight title="Un lieu Authentique" image="images/home-spotlight-2.jpg"}}
 A l'emplacement d'un **ancien fort militaire Français** construit en 1935 sur les hauteurs du village de **Mirleft** (à 140 km au Sud d'Agadir et 40km de Tiznit), Les 3 chameaux vous accueillent au Maroc entre mer et desert sur une superficie de plus d'un hectare, dans un lieu à la situation privilégiée et au **panorama exceptionnel**.
 {{/spotlight}}
-
-
-
-

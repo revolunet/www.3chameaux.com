@@ -19,3 +19,8 @@ steps:
     npm install
     npm run build
   displayName: 'npm install and build'
+
+- script: |
+    docker build -t $(dockerId)/$(imageName) .
+  displayName: 'docker build'
+

@@ -1,4 +1,4 @@
-## www.3chameaux.com
+# www.3chameaux.com
 
 Site "statique" généré par [metalsmith](http://metalsmith.io)
 

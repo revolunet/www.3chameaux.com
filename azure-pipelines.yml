@@ -21,6 +21,7 @@ steps:
   displayName: 'npm install and build'
 
 - script: |
-    docker build -t $(dockerId)/$(imageName) .
-  displayName: 'docker build'
-
+    docker build -t $(dockerId).azurecr.io/$(imageName) .
+    docker login -u $(dockerId) -p $(pswd) $(dockerId).azurecr.io
+    docker push $(dockerId).azurecr.io/$(imageName)
+  displayName: 'docker build and push'

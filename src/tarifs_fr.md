@@ -23,10 +23,6 @@ Prix **par jour** en Dirhams.
         <td align="center"><b>Basse Saison</b></td>
     </tr>
     <tr>
-        <td>&nbsp;</td>
-        <td class="tarif__category" colspan="2">Tarifs chambre uniquement</td>
-    </tr>
-    <tr>
         <td>
             <div class="tarif__title">Suite (1 ou 2 pers)</div>
             Chambre(s), salon et salle de bain
@@ -77,7 +73,7 @@ Haute Saison : {{ hauteSaison }}
 <br>
 (2) Taxe touristique non incluse : 21 Dhs par nuit et par personne
 <br>
-(3) Tarifs hôtellerie pour particuliers en vigueur au 1er Janvier 2017
+(3) Tarifs hôtellerie pour particuliers en vigueur au 1er Janvier 2020
 <br>
 (4) Les petits déjeuners sont servis de 8h à 12h.
 <br><br>

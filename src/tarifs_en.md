@@ -4,14 +4,13 @@ subtitle: Tarifs Hôtel Les 3 Chameaux
 description: Tarifs Hôtel Les 3 Chameaux
 locale: en
 layout: simple.html
-hauteSaison: "February 10 to March 12, April 7 to May 7, July, August, October 20 to November 4th, December 22th to January 6th"
-
+hauteSaison: "from 1st July 2020 to 31 August 2020 and 19 December 2020 to 3 January 2021"
 ---
 
 {{#> section-text title="Tarifs"}}
 For groups and special requests, please [contactez-us](#contact).
 <br><br>
-Price **per day** for **two people**
+Price **per day** in Dirhams.
 {{/ section-text}}
 
 <table>
@@ -26,43 +25,52 @@ Price **per day** for **two people**
     </tr>
     <tr>
         <td>&nbsp;</td>
-        <td class="tarif__category" colspan="2">Half-board<br/>Full breakfast, dinner and accommodation</td>
-    </tr>
-    <tr>
-        <td>
-            <div class="tarif__title">Suite</div>
-            Room(s), living-room and bathroom
-        </td>
-        <td align="center">1 920 dhs</td>
-        <td align="center">1 720 dhs</td>
-    </tr>
-    <tr>
-        <td>
-            <div class="tarif__title">Double room</div>
-        </td>
-        <td align="center">1 620 dhs</td>
-        <td align="center">1 520 dhs</td>
-    </tr>
-    <tr>
-        <td>&nbsp;</td>
         <td class="tarif__category" colspan="2">Room only</td>
     </tr>
     <tr>
         <td>
-            <div class="tarif__title">Suite</div>
+            <div class="tarif__title">Suite (1 or 2 pers)</div>
             Room(s), living-room and bathroom
         </td>
-        <td align="center">1 300 dhs</td>
-        <td align="center">1 100 dhs</td>
+        <td align="center">1 400 dhs</td>
+        <td align="center">1 200 dhs</td>
     </tr>
     <tr>
         <td>
-            <div class="tarif__title">Double room</div>
+            <div class="tarif__title">Suite (4 pers)</div>
+            Room(s), living-room and bathroom
         </td>
+        <td align="center">1 600 dhs</td>
+        <td align="center">1 400 dhs</td>
+    </tr>
+    <tr>
+        <td>
+            <div class="tarif__title">Double room (1 or 2 pers)</div>
+        </td>
+        <td align="center">1 100 dhs</td>
         <td align="center">1 000 dhs</td>
-        <td align="center">  900 dhs</td>
+    </tr>
+    <tr>
+        <td>
+            <div class="tarif__title">Additional bed</div>
+        </td>
+        <td align="center" colspan="2">100 dhs</td>
+    </tr>
+    <tr>
+        <td>
+            <div class="tarif__title">Breakfast</div>
+        </td>
+        <td align="center" colspan="2">80 dhs</td>
+    </tr>
+    <tr>
+        <td>
+            <div class="tarif__title">Lunch</div>
+        </td>
+        <td align="center" colspan="2">250 dhs</td>
     </tr>
 </table>
+
+Tarifs for residents : -10% on rooms
 
 High Season : {{ hauteSaison }}
 
@@ -70,7 +78,7 @@ High Season : {{ hauteSaison }}
 <br>
 (2) Tourist tax non-included : 21 Dhs per night per person
 <br>
-(3) Hôtel rates for individuals on 1 January 2017
+(3) Hôtel rates for individuals on 1 January 2020
 <br>
 (4) Breakfast available from 8h to 12h.
 <br><br>

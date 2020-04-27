@@ -4,14 +4,13 @@ subtitle: Tarifs Hôtel Les 3 Chameaux
 description: Tarifs Hôtel Les 3 Chameaux
 locale: fr
 layout: simple.html
-hauteSaison: "10 fevrier au 12 Mars 2018, 07 avril au 07 Mai 2018, Juillet et Aout, 20 octobre au 04 novembre 2018, 22 Decembre au 06 Janvier 2018"
-
+hauteSaison: "du 1er Juillet 2020 au 31 Août 2020 et du 19 Décembre 2020 au 3 Janvier 2021"
 ---
 
 {{#> section-text title="Tarifs"}}
 Pour les groupes et les demandes particulières, [contactez-nous](#contact).
 <br><br>
-Prix **par jour** pour **deux personnes**, en **demi-pension** : petit déjeuner complet, dîner et hébergement.
+Prix **par jour** en Dirhams.
 {{/ section-text}}
 
 <table>
@@ -25,46 +24,54 @@ Prix **par jour** pour **deux personnes**, en **demi-pension** : petit déjeuner
     </tr>
     <tr>
         <td>&nbsp;</td>
-        <td class="tarif__category" colspan="2">Tarifs en demi-pension</td>
-    </tr>
-    <tr>
-        <td>
-            <div class="tarif__title">Suite</div>
-            Chambre(s), salon et salle de bain
-        </td>
-        <td align="center">1 920 dhs</td>
-        <td align="center">1 720 dhs</td>
-    </tr>
-    <tr>
-        <td>
-            <div class="tarif__title">Chambre double</div>
-        </td>
-        <td align="center">1 620 dhs</td>
-        <td align="center">1 520 dhs</td>
-    </tr>
-    <tr>
-        <td>&nbsp;</td>
         <td class="tarif__category" colspan="2">Tarifs chambre uniquement</td>
     </tr>
     <tr>
         <td>
-            <div class="tarif__title">Suite</div>
+            <div class="tarif__title">Suite (1 ou 2 pers)</div>
             Chambre(s), salon et salle de bain
         </td>
-        <td align="center">1 300 dhs</td>
-        <td align="center">1 100 dhs</td>
+        <td align="center">1 400 dhs</td>
+        <td align="center">1 200 dhs</td>
     </tr>
     <tr>
         <td>
-            <div class="tarif__title">Chambre double</div>
+            <div class="tarif__title">Suite (4 pers)</div>
+            Chambre(s), salon et salle de bain
         </td>
+        <td align="center">1 600 dhs</td>
+        <td align="center">1 400 dhs</td>
+    </tr>
+    <tr>
+        <td>
+            <div class="tarif__title">Chambre double (1 ou 2 pers)</div>
+        </td>
+        <td align="center">1 100 dhs</td>
         <td align="center">1 000 dhs</td>
-        <td align="center">  900 dhs</td>
+    </tr>
+    <tr>
+        <td>
+            <div class="tarif__title">Lit supplémentaire</div>
+        </td>
+        <td align="center" colspan="2">100 dhs</td>
+    </tr>
+    <tr>
+        <td>
+            <div class="tarif__title">Petit déjeuner</div>
+        </td>
+        <td align="center" colspan="2">80 dhs</td>
+    </tr>
+    <tr>
+        <td>
+            <div class="tarif__title">Repas</div>
+        </td>
+        <td align="center" colspan="2">250 dhs</td>
     </tr>
 </table>
 
-Haute Saison : {{ hauteSaison }}
+Tarifs pour résidents : -10% sur l'hébergement
 
+Haute Saison : {{ hauteSaison }}
 
 (1) Tarifs exprimés en Dirhams - cf <a href="https://www.google.fr/webhp?ie=UTF-8#q=1+EUR+en+MAD" target="_blank">Taux de conversion Euro => Dirhams</a>
 <br>

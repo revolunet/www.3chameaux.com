@@ -1,13 +1,10 @@
 {
   "metadata": {
     "title": "3chameaux.com",
-    "description": "MetalSmith powered" 
+    "description": "MetalSmith powered"
   },
   "plugins": {
     "metalsmith-paths": {},
-    "metalsmith-imagemin": {
-        "optimizationLevel": 3
-    },
     "metalsmith-register-helpers": {},
     "metalsmith-i18n": {
       "default": "fr",

@@ -31,7 +31,7 @@ thumbs:
         {
           title: "Hébergement",
           image: "images/thumbs/suite4.jpg",
-          text: "Nous mettons à votre disposition 12 suites, 8 chambres tout confort, ainsi qu'une d'une maison indépendante",
+          text: "Nous mettons à votre disposition 17 suites, 8 chambres tout confort, ainsi qu'une d'une maison indépendante",
           link: "hotel#hotel",
         },
         {
@@ -43,7 +43,7 @@ thumbs:
         {
           title: "Loisirs",
           image: "images/thumbs/piscine2.jpg",
-          text: "Bronzez autour de  la piscine, dépensez-vous sur notre court de tennis, ou choisissez parmi les activités proposées aux alentours.",
+          text: "Bronzez autour des deux piscines, dépensez-vous sur notre court de tennis, ou choisissez parmi les activités proposées aux alentours.",
           link: "hotel#loisirs",
         },
         {
@@ -71,7 +71,8 @@ thumbs:
 <div style="margin-top:20px;font-size:1.5em;font-weight:bold">
     <center>
       Pour vos vacances de Noël, venez vous ressourcer aux 3 Chameaux<br/>
-      <span style="font-size:1rem;color:#ccc">(test PCR et réservation d’hôtel exigés)</span>
+      <span style="font-size:1.2rem;color:#666">La France autorise les déplacements hors Europe</span><br/>
+      <span style="font-size:1rem;color:#aaa">(test PCR et réservation d’hôtel exigés)</span>
     </center>
 </div>
 

@@ -13,7 +13,7 @@
   "author": "Julien Bouquillon <julien@revolunet.com> (http://twitter.com/revolunet)",
   "license": "MIT",
   "devDependencies": {
-    "handlebars": "4.0.5",
+    "handlebars": "4.5.3",
     "metalsmith": "2.1.0",
     "metalsmith-concat": "3.0.3",
     "metalsmith-debug": "0.0.2",

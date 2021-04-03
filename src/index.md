@@ -70,9 +70,9 @@ thumbs:
 
 <div style="margin-top:20px;font-size:1.5em;font-weight:bold">
     <center>
-      Pour vos vacances de Noël, venez vous ressourcer aux 3 Chameaux<br/>
-      <span style="font-size:1.2rem;color:#666">La France autorise les déplacements hors Europe</span><br/>
-      <span style="font-size:1rem;color:#aaa">(test PCR et réservation d’hôtel exigés)</span>
+      Un cadre idéal pour les vacances ou le télétravail<br/>
+      <span style="font-size:1.2rem;color:#666">Activités, plage, soleil, fibre optique et WiFi</span><br/>
+      <a href="mailto:contact@3chameaux.com"><span style="font-size:1.2rem;color:#666">Contactez-nous!</span></a>
     </center>
 </div>
 

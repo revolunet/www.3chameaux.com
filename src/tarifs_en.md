@@ -4,7 +4,8 @@ subtitle: Tarifs Hôtel Les 3 Chameaux
 description: Tarifs Hôtel Les 3 Chameaux
 locale: en
 layout: simple.html
-hauteSaison: "from 1st July 2020 to 31 August 2020 and 19 December 2020 to 3 January 2021"
+hauteSaison: "from 04/02 to 06/03, 08/04 to 08/05, 01/07 to 31/08, 21/10 to 06/11 and 23/12 to 07/01"
+
 ---
 
 {{#> section-text title="Tarifs"}}
@@ -28,16 +29,16 @@ Price **per day** in Dirhams.
             <div class="tarif__title">Suite (1 or 2 pers)</div>
             Room(s), living-room and bathroom
         </td>
-        <td align="center">1 400 dhs</td>
-        <td align="center">1 200 dhs</td>
+        <td align="center">1 500 dhs</td>
+        <td align="center">1 300 dhs</td>
     </tr>
     <tr>
         <td>
             <div class="tarif__title">Suite (4 pers)</div>
             Room(s), living-room and bathroom
         </td>
-        <td align="center">1 600 dhs</td>
-        <td align="center">1 400 dhs</td>
+        <td align="center">1 700 dhs</td>
+        <td align="center">1 500 dhs</td>
     </tr>
     <tr>
         <td>
@@ -50,13 +51,13 @@ Price **per day** in Dirhams.
         <td>
             <div class="tarif__title">Additional bed</div>
         </td>
-        <td align="center" colspan="2">100 dhs</td>
+        <td align="center" colspan="2">150 dhs</td>
     </tr>
     <tr>
         <td>
             <div class="tarif__title">Breakfast</div>
         </td>
-        <td align="center" colspan="2">80 dhs</td>
+        <td align="center" colspan="2">85 dhs</td>
     </tr>
     <tr>
         <td>
@@ -72,9 +73,9 @@ High Season : {{ hauteSaison }}
 
 (1) Tarifs in Dirhams - cf <a href="https://www.google.fr/webhp?ie=UTF-8#q=1+EUR+en+MAD" target="_blank">Euro => Dirhams conversion rate</a>
 <br>
-(2) Tourist tax non-included : 21 Dhs per night per person
+(2) Tourist tax non-included : 23 Dhs per night per person
 <br>
-(3) Hôtel rates for individuals on 1 January 2020
+(3) Hôtel rates for individuals on 1 January 2023
 <br>
 (4) Breakfast available from 8h to 12h.
 <br><br>

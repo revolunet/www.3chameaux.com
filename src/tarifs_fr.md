@@ -4,7 +4,7 @@ subtitle: Tarifs Hôtel Les 3 Chameaux
 description: Tarifs Hôtel Les 3 Chameaux
 locale: fr
 layout: simple.html
-hauteSaison: "du 1er Juillet 2020 au 31 Août 2020 et du 19 Décembre 2020 au 3 Janvier 2021"
+hauteSaison: "du 04/02 au 06/03, du 08/04 au 08/05, du 01/07 au 31/08, du 21/10 au 06/11 et du 23/12 au 07/01"
 ---
 
 {{#> section-text title="Tarifs"}}
@@ -27,16 +27,16 @@ Prix **par jour** en Dirhams.
             <div class="tarif__title">Suite (1 ou 2 pers)</div>
             Chambre(s), salon et salle de bain
         </td>
-        <td align="center">1 400 dhs</td>
-        <td align="center">1 200 dhs</td>
+        <td align="center">1 500 dhs</td>
+        <td align="center">1 300 dhs</td>
     </tr>
     <tr>
         <td>
             <div class="tarif__title">Suite (4 pers)</div>
             Chambre(s), salon et salle de bain
         </td>
-        <td align="center">1 600 dhs</td>
-        <td align="center">1 400 dhs</td>
+        <td align="center">1 700 dhs</td>
+        <td align="center">1 500 dhs</td>
     </tr>
     <tr>
         <td>
@@ -49,13 +49,13 @@ Prix **par jour** en Dirhams.
         <td>
             <div class="tarif__title">Lit supplémentaire</div>
         </td>
-        <td align="center" colspan="2">100 dhs</td>
+        <td align="center" colspan="2">150 dhs</td>
     </tr>
     <tr>
         <td>
             <div class="tarif__title">Petit déjeuner</div>
         </td>
-        <td align="center" colspan="2">80 dhs</td>
+        <td align="center" colspan="2">85 dhs</td>
     </tr>
     <tr>
         <td>
@@ -71,9 +71,9 @@ Haute Saison : {{ hauteSaison }}
 
 (1) Tarifs exprimés en Dirhams - cf <a href="https://www.google.fr/webhp?ie=UTF-8#q=1+EUR+en+MAD" target="_blank">Taux de conversion Euro => Dirhams</a>
 <br>
-(2) Taxe touristique non incluse : 21 Dhs par nuit et par personne
+(2) Taxe touristique non incluse : 23 Dhs par nuit et par personne
 <br>
-(3) Tarifs hôtellerie pour particuliers en vigueur au 1er Janvier 2020
+(3) Tarifs hôtellerie pour particuliers en vigueur au 1er Janvier 2023
 <br>
 (4) Les petits déjeuners sont servis de 8h à 12h.
 <br><br>
